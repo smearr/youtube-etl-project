@@ -1,7 +1,7 @@
 [
     {
         "kind": "youtube#video",
-        "etag": "SRaa3yySZLrctu85k4Vzlu634kw",
+        "etag": "wFXur74wnUTDMoghO-XiDY6MEBo",
         "id": "zfD3BVRTuN4",
         "snippet": {
             "publishedAt": "2025-11-03T16:11:48Z",
@@ -75,15 +75,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "2215639",
-            "likeCount": "5015",
+            "viewCount": "2303475",
+            "likeCount": "5140",
             "favoriteCount": "0",
-            "commentCount": "30"
+            "commentCount": "33"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "NrR9n2k4fxYH0yNKgiU-XGVVfBU",
+        "etag": "lcv8u6t0aVUYy-NhbOzlKhJI3qA",
         "id": "m750sa5fLu8",
         "snippet": {
             "publishedAt": "2025-11-04T16:00:00Z",
@@ -158,15 +158,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "244271",
-            "likeCount": "4394",
+            "viewCount": "275453",
+            "likeCount": "4595",
             "favoriteCount": "0",
-            "commentCount": "148"
+            "commentCount": "153"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "p197dLUYcy90KDr9lCfP6gKE7Nc",
+        "etag": "SuknrSaWxMpPoYT3v8Kz0dhEWZI",
         "id": "veR9KoNDYVw",
         "snippet": {
             "publishedAt": "2025-11-05T00:20:33Z",
@@ -245,15 +245,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "1450627",
-            "likeCount": "23434",
+            "viewCount": "1561208",
+            "likeCount": "23590",
             "favoriteCount": "0",
-            "commentCount": "335"
+            "commentCount": "360"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "iJdlIa0u-OoW3oCGU6b39WYxhTQ",
+        "etag": "CdmJdSMfI8p7CMkL7l6_DBJolMY",
         "id": "TN4LP7j5cbo",
         "snippet": {
             "publishedAt": "2025-11-04T15:00:04Z",
@@ -326,15 +326,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "837378",
-            "likeCount": "37843",
+            "viewCount": "1020226",
+            "likeCount": "39225",
             "favoriteCount": "0",
-            "commentCount": "3160"
+            "commentCount": "3216"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "pnVeJvI95VPpBE1bL9hCQIgQJCM",
+        "etag": "88vOqwaA5TnmFXijpbaU8rygWic",
         "id": "8Ry41LBsSuQ",
         "snippet": {
             "publishedAt": "2025-11-04T17:00:02Z",
@@ -393,15 +393,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "1390007",
-            "likeCount": "5257",
+            "viewCount": "1536240",
+            "likeCount": "5385",
             "favoriteCount": "0",
-            "commentCount": "845"
+            "commentCount": "859"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "itRf4X_zRB5Wiv4qQpPSwjfsWGQ",
+        "etag": "UMHtjqM4OyvFPa1im8HuJcM7a9M",
         "id": "OPZoLZBXD0Y",
         "snippet": {
             "publishedAt": "2025-11-04T22:49:53Z",
@@ -480,15 +480,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "719382",
-            "likeCount": "156210",
+            "viewCount": "997994",
+            "likeCount": "175668",
             "favoriteCount": "0",
-            "commentCount": "21910"
+            "commentCount": "23237"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "r3ejGcICSQjszVAggtA_N_2NOho",
+        "etag": "bvciQ0o4j_SrH1SlDNAwLn9qkZI",
         "id": "zs7ISrSdVUI",
         "snippet": {
             "publishedAt": "2025-11-03T10:04:31Z",
@@ -551,15 +551,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "9802144",
-            "likeCount": "20460",
+            "viewCount": "10171804",
+            "likeCount": "21076",
             "favoriteCount": "0",
-            "commentCount": "209"
+            "commentCount": "214"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "HmIuAwyIWDry9TnZJjd_eTQCf5U",
+        "etag": "dk7CL59uEin3McqsjyF00yghZb4",
         "id": "m43HC9T9YM8",
         "snippet": {
             "publishedAt": "2025-11-04T06:40:28Z",
@@ -630,20 +630,20 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "4941851",
-            "likeCount": "128395",
+            "viewCount": "7146386",
+            "likeCount": "130066",
             "favoriteCount": "0",
-            "commentCount": "17379"
+            "commentCount": "18726"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "PrpqbogNgwAtEYrgMCZEQYQOaZ8",
+        "etag": "_hf97OPbvQs5glpMfKZBmIRjWIg",
         "id": "27L0V20ljMQ",
         "snippet": {
             "publishedAt": "2025-11-05T00:18:35Z",
             "channelId": "UCxsk7hqE_CwZWGEJEkGanbA",
-            "title": "#shorts steal a brainrot admin abuse",
+            "title": "steal a brainrot admin abuse",
             "description": "roblox steal a brainrot admin abuse live\n✅ BECOME A MEMBER - https://www.youtube.com/kreekcraft/join\n🧢 KREEKCRAFT MERCH - https://kreekcraft.store\n\n🐦 TWITTER - https://twitter.com/kreekcraft\n📸 INSTAGRAM - https://www.instagram.com/kreekcraft\n📱 TIKTOK - https://www.tiktok.com/@dakreekcraft\n👻 SNAPCHAT - https://www.snapchat.com/add/kreekcraft\n💜 TWITCH - https://www.twitch.tv/kreekcraft\n🤳 CAMEO - https://www.cameo.com/kreekcraft\n\n🟥 ROBLOX PROFILE - https://www.roblox.com/users/140258990\n🟦 ROBLOX GROUP - https://www.roblox.com/groups/3072234\n\n#live #roblox #stealabrainrot #shorts \n📧 BUSINESS EMAIL - kreek@ellify360.com",
             "thumbnails": {
                 "default": {
@@ -677,7 +677,7 @@
             "liveBroadcastContent": "none",
             "defaultLanguage": "en-US",
             "localized": {
-                "title": "#shorts steal a brainrot admin abuse",
+                "title": "steal a brainrot admin abuse",
                 "description": "roblox steal a brainrot admin abuse live\n✅ BECOME A MEMBER - https://www.youtube.com/kreekcraft/join\n🧢 KREEKCRAFT MERCH - https://kreekcraft.store\n\n🐦 TWITTER - https://twitter.com/kreekcraft\n📸 INSTAGRAM - https://www.instagram.com/kreekcraft\n📱 TIKTOK - https://www.tiktok.com/@dakreekcraft\n👻 SNAPCHAT - https://www.snapchat.com/add/kreekcraft\n💜 TWITCH - https://www.twitch.tv/kreekcraft\n🤳 CAMEO - https://www.cameo.com/kreekcraft\n\n🟥 ROBLOX PROFILE - https://www.roblox.com/users/140258990\n🟦 ROBLOX GROUP - https://www.roblox.com/groups/3072234\n\n#live #roblox #stealabrainrot #shorts \n📧 BUSINESS EMAIL - kreek@ellify360.com"
             },
             "defaultAudioLanguage": "en-US"
@@ -692,15 +692,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "1808820",
-            "likeCount": "22652",
+            "viewCount": "1881892",
+            "likeCount": "22673",
             "favoriteCount": "0",
-            "commentCount": "45"
+            "commentCount": "49"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "q0tXX3Vr3K0OuOBUlB7WGkHOWME",
+        "etag": "lPvAuwqUl7_MC3fo8-ogj4o-ZW0",
         "id": "3b4lo3lV4bg",
         "snippet": {
             "publishedAt": "2025-11-04T18:00:06Z",
@@ -794,15 +794,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "207598",
-            "likeCount": "24836",
+            "viewCount": "239653",
+            "likeCount": "25884",
             "favoriteCount": "0",
-            "commentCount": "1906"
+            "commentCount": "1946"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "LpKd3Ae-No3XxaAJiQWtV2r7OLg",
+        "etag": "4uFKjCnYTbzdvFqGh-y5vjZv-BI",
         "id": "RdUPs9e1bUk",
         "snippet": {
             "publishedAt": "2025-11-04T14:59:01Z",
@@ -873,15 +873,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "699808",
-            "likeCount": "52358",
+            "viewCount": "738009",
+            "likeCount": "55653",
             "favoriteCount": "0",
-            "commentCount": "908"
+            "commentCount": "943"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "K8_rDgIRgwqCO6mLpMLvNluITH0",
+        "etag": "H6q4llDWFqmElNSbw9Lez8gKbTg",
         "id": "u673w00QByA",
         "snippet": {
             "publishedAt": "2025-11-05T00:03:15Z",
@@ -935,15 +935,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "666101",
-            "likeCount": "15427",
+            "viewCount": "702314",
+            "likeCount": "15483",
             "favoriteCount": "0",
-            "commentCount": "254"
+            "commentCount": "274"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "5GALGrHRRtjb3hE1f06-pb0xXfE",
+        "etag": "oxzZfE5KDLJXOROkxmyxJxLkP1c",
         "id": "VQNwppSFCn0",
         "snippet": {
             "publishedAt": "2025-11-03T14:30:15Z",
@@ -1020,15 +1020,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "1660339",
-            "likeCount": "1823",
+            "viewCount": "1711728",
+            "likeCount": "1875",
             "favoriteCount": "0",
-            "commentCount": "27"
+            "commentCount": "29"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "LAeuIxXjfj1iWZSvq2OCpCNe8n4",
+        "etag": "qK6VWnNXtMNudGq19oC8RL3IVBg",
         "id": "c_YrKdMPw2k",
         "snippet": {
             "publishedAt": "2025-11-04T18:00:54Z",
@@ -1082,15 +1082,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "125656",
-            "likeCount": "9047",
+            "viewCount": "143515",
+            "likeCount": "9546",
             "favoriteCount": "0",
-            "commentCount": "639"
+            "commentCount": "660"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "HQO2x4-mwdOxlFyWilLvBKcMkWE",
+        "etag": "qQ4n_exakgFeEYhzBeILeaZ-x6A",
         "id": "Ob1obfsosUA",
         "snippet": {
             "publishedAt": "2025-11-04T16:02:43Z",
@@ -1160,15 +1160,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "543248",
-            "likeCount": "20912",
+            "viewCount": "595866",
+            "likeCount": "21796",
             "favoriteCount": "0",
-            "commentCount": "3375"
+            "commentCount": "3474"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "bTjLWt3H3e1L6dN8NPUK_SXHCAc",
+        "etag": "fL4gNY6CMj5wPoe3y1-z8vBXG40",
         "id": "O1sY2Oo-45k",
         "snippet": {
             "publishedAt": "2025-11-04T00:08:03Z",
@@ -1241,15 +1241,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "1455054",
-            "likeCount": "2029",
+            "viewCount": "1525001",
+            "likeCount": "2084",
             "favoriteCount": "0",
-            "commentCount": "24"
+            "commentCount": "26"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "r5ZRt6pjsh7ygEEcJULE8EI0jPk",
+        "etag": "SX09TeC_niWyCKLJqqiW1ZO4JxU",
         "id": "J0Mhw11bTYA",
         "snippet": {
             "publishedAt": "2025-11-04T10:08:38Z",
@@ -1312,15 +1312,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "152821",
-            "likeCount": "1975",
+            "viewCount": "153365",
+            "likeCount": "1982",
             "favoriteCount": "0",
-            "commentCount": "432"
+            "commentCount": "434"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "odsX4c4WYjulXioc74vkHOSBFYQ",
+        "etag": "gXg9hvnrYAQojx81AEsj2QRFIP4",
         "id": "dTFzdsslujw",
         "snippet": {
             "publishedAt": "2025-11-04T12:30:58Z",
@@ -1384,15 +1384,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "430496",
-            "likeCount": "12249",
+            "viewCount": "460580",
+            "likeCount": "12586",
             "favoriteCount": "0",
-            "commentCount": "3304"
+            "commentCount": "3380"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "Ev-Ett8y7tIs4o4NVJMz7MrLrf4",
+        "etag": "3g1MyAVNRv1YZP3LNGTZIlAF4UA",
         "id": "L9_Eho9gCNs",
         "snippet": {
             "publishedAt": "2025-11-03T22:07:14Z",
@@ -1468,15 +1468,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "1272355",
-            "likeCount": "1687",
+            "viewCount": "1306249",
+            "likeCount": "1729",
             "favoriteCount": "0",
             "commentCount": "46"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "P_ngYGMLQHnN8j2oE8ftSo33FGs",
+        "etag": "-LFQlJW8cW87CiIjTXTZVZQ75A8",
         "id": "8gOgSwZAq4M",
         "snippet": {
             "publishedAt": "2025-11-04T17:00:12Z",
@@ -1530,15 +1530,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "32031",
-            "likeCount": "2462",
+            "viewCount": "34150",
+            "likeCount": "2520",
             "favoriteCount": "0",
-            "commentCount": "213"
+            "commentCount": "217"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "fLletdVPpLWWAYfFlPTuYPBcaa4",
+        "etag": "Q0zd3UDvIB0Qu7PNxO7Rt4NmVTE",
         "id": "ieA8_4TQZPQ",
         "snippet": {
             "publishedAt": "2025-11-04T21:30:11Z",
@@ -1617,15 +1617,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "11151",
-            "likeCount": "2605",
+            "viewCount": "13521",
+            "likeCount": "2736",
             "favoriteCount": "0",
-            "commentCount": "75"
+            "commentCount": "76"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "OBV3spnDuNuArk99Qnf0ZZDKLTg",
+        "etag": "X_X_d7Ge0fuWlIOZAhBaT3b5qJs",
         "id": "lSfZi29lTUw",
         "snippet": {
             "publishedAt": "2025-11-04T07:19:24Z",
@@ -1710,15 +1710,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "592134",
-            "likeCount": "1840",
+            "viewCount": "658255",
+            "likeCount": "1985",
             "favoriteCount": "0",
             "commentCount": "49"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "4amncWgcO_Cse7KlOx9LMIIycwI",
+        "etag": "C-qkhdWFAEhXhIPadOrbE5vqKwA",
         "id": "x6ZDjr3CPg8",
         "snippet": {
             "publishedAt": "2025-11-03T14:01:44Z",
@@ -1791,71 +1791,93 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "101351",
-            "likeCount": "599",
+            "viewCount": "105599",
+            "likeCount": "615",
             "favoriteCount": "0",
-            "commentCount": "142"
+            "commentCount": "145"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "O_4tvIe3mmGzgm7VEz24F7UfSmw",
-        "id": "9onAlHowdK4",
+        "etag": "enzarvR3Qaq6kMT9l5SEc4EOeH8",
+        "id": "4FfXPMOtJrk",
         "snippet": {
-            "publishedAt": "2025-11-04T13:30:19Z",
-            "channelId": "UCOfyvsftRqM5yyqpT392b4A",
-            "title": "I Pretended to be a Homeless Baby Brainrot in Steal a Brainrot…",
-            "description": "I Pretended to be a Homeless Baby Brainrot in Steal a Brainrot… (Roblox)\n\nJoin Dash in Roblox! https://www.roblox.com/communities/34782900/Dash-and-FRIENDS\n\nThis video Dash pretends to be a HOMELESS BABY BRAINROT to troll Baby Dash and Anne... How will they react? Will they be nice to the brainrot? Watch the full video to find out!\n\n#Roblox #Dash",
+            "publishedAt": "2025-11-04T20:01:39Z",
+            "channelId": "UCj-wTLj0p0YvTkS-9-ACm0A",
+            "title": "MY BEST FORCE WIPE - Rust",
+            "description": "Where do I even begin? The day was Oct. 2nd, the force wipe that would change Rust... forever. A new progression system was implemented into the game which presented new but exciting challenges. To make matters even more interesting, this was the wipe where I played with three of my own subscribers. GeekMartyr, Tairyr, and @LuTon1c . This story had such an interesting turn of events. From an unexpected rivalry with a familiar face, to the craziest online raids/raid defenses... this quickly became My Best Force Wipe.\n\nJoin the Blooprint x Ironside PC Giveaway! https://gleam.io/Cybl3/blooprint-x-ironside-3000-pc-giveaway\n----------------------------------------------------------------------------------------------------\nMy Channels:\nBlooprint's Bunker - https://www.youtube.com/@BlooprintsBunker\nBlooprint's Vault - https://www.youtube.com/channel/UClMuosUutVxH7hTGVyUzppA?sub_confirmation=1\nTwitch - https://www.twitch.tv/blooprint\nKick - https://kick.com/blooprint\nTikTok - https://www.tiktok.com/@blooprintgames\n\nMy Socials:\nTwitter - https://twitter.com/blooprintgames\nDiscord - https://discord.gg/blooprint\nMerch - https://www.blooprintgaming.com/\n----------------------------------------------------------------------------------------------------\nMy Rust servers:\nBloo Lagoon Discord - https://lagoonrust.com/discord\nBloo Lagoon Website - https://lagoonrust.com/\n----------------------------------------------------------------------------------------------------\nPC Specs:\nProcessor - Ryzen 9 7950x3D\nGraphics Card - ASUS TUF RTX 4080\nMemory - G.SKILL Trident Z5 64GB DDR5 6000\nMotherboard - ASUS TUF B650-PLUS WIFI\nCPU Cooler - Noctua NH-D15\nPower Supply - 1000 GT 80 Plus Gold 1000W Fully Modular\nSSD - 4TB Crucial P3 Plus M.2\nHard Drive - 4TB HDD\nCase - Lian Li Lancool 216RX Black Steel\nPCPartPicker - https://pcpartpicker.com/list/FHT7PJ\n----------------------------------------------------------------------------------------------------\nEquipment:\nHeadphones - SENNHEISER HD 660 S\nMouse - Custom Themed Lamzu Atlantis\nKeyboard - KBD75v3 Custom Keyboard w/ JWK Poseidon lubed switches, Brass Plate & Doubleshot Keycaps\nMic - Rode Procaster\nMonitor (main) - Samsung Odyssey G7 240Hz (2560x1440)\nMonitor (secondary) - Samsung Odyssey G5 144Hz (2560x1440) [x2]\nCapture Card - Elgato 4K60 Pro MK.2\nStream Deck - Elgato Mini\nSound Mixer - TC Helicon GoXLR \n----------------------------------------------------------------------------------------------------\nChannel Art/Design:\nEdited by - Iced (https://www.youtube.com/@Icedddddd)\nThumbnail - Veysel Kara (https://twitter.com/veys_el_kara) \nMascot Design and Twitch Graphics - Rotting Jackal (https://www.rottingjackal.com/)\nBanner & Illustrated Thumbnails - Veysel Kara (https://twitter.com/veys_el_kara)\nOG Logo Design - Curzurer (https://curzurer.carbonmade.com/)\nIntro, Outro & Motion Design - Bryan G. Motion (https://twitter.com/bryangmotion)\n----------------------------------------------------------------------------------------------------\nMost if not all background music is provided by Epidemic Sound: https://share.epidemicsound.com/o55ygf",
             "thumbnails": {
                 "default": {
-                    "url": "https://i.ytimg.com/vi/9onAlHowdK4/default.jpg",
+                    "url": "https://i.ytimg.com/vi/4FfXPMOtJrk/default.jpg",
                     "width": 120,
                     "height": 90
                 },
                 "medium": {
-                    "url": "https://i.ytimg.com/vi/9onAlHowdK4/mqdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/4FfXPMOtJrk/mqdefault.jpg",
                     "width": 320,
                     "height": 180
                 },
                 "high": {
-                    "url": "https://i.ytimg.com/vi/9onAlHowdK4/hqdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/4FfXPMOtJrk/hqdefault.jpg",
                     "width": 480,
                     "height": 360
                 },
                 "standard": {
-                    "url": "https://i.ytimg.com/vi/9onAlHowdK4/sddefault.jpg",
+                    "url": "https://i.ytimg.com/vi/4FfXPMOtJrk/sddefault.jpg",
                     "width": 640,
                     "height": 480
                 },
                 "maxres": {
-                    "url": "https://i.ytimg.com/vi/9onAlHowdK4/maxresdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/4FfXPMOtJrk/maxresdefault.jpg",
                     "width": 1280,
                     "height": 720
                 }
             },
-            "channelTitle": "Dash Roblox",
+            "channelTitle": "Blooprint",
             "tags": [
-                "dash",
-                "roblox",
-                "dash roblox",
-                "dash minecraft",
-                "minecraft",
-                "minecraft challenge",
-                "minecraft mods",
-                "minecraft funny",
-                "I Pretended to be a Homeless Baby Brainrot in Steal a Brainrot…"
+                "rust",
+                "blooprint rust",
+                "blooprint",
+                "rust pvp",
+                "rust base",
+                "rust survival",
+                "rust montage",
+                "rust raid",
+                "rust 2025",
+                "rust gameplay 2025",
+                "blooprint force wipe",
+                "rust force wipe",
+                "rust blueprint",
+                "rust blueprint fragments",
+                "rust blueprint update",
+                "blooprint group",
+                "rust best force wipe",
+                "rust best wipe",
+                "blooprint best video",
+                "blooprint movie",
+                "rust movie",
+                "blooprint ted",
+                "rust online raid",
+                "rust raid defense",
+                "rust story",
+                "rust revenge",
+                "movie",
+                "revenge",
+                "online raid",
+                "raid defense",
+                "force wipe"
             ],
             "categoryId": "20",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-                "title": "I Pretended to be a Homeless Baby Brainrot in Steal a Brainrot…",
-                "description": "I Pretended to be a Homeless Baby Brainrot in Steal a Brainrot… (Roblox)\n\nJoin Dash in Roblox! https://www.roblox.com/communities/34782900/Dash-and-FRIENDS\n\nThis video Dash pretends to be a HOMELESS BABY BRAINROT to troll Baby Dash and Anne... How will they react? Will they be nice to the brainrot? Watch the full video to find out!\n\n#Roblox #Dash"
+                "title": "MY BEST FORCE WIPE - Rust",
+                "description": "Where do I even begin? The day was Oct. 2nd, the force wipe that would change Rust... forever. A new progression system was implemented into the game which presented new but exciting challenges. To make matters even more interesting, this was the wipe where I played with three of my own subscribers. GeekMartyr, Tairyr, and @LuTon1c . This story had such an interesting turn of events. From an unexpected rivalry with a familiar face, to the craziest online raids/raid defenses... this quickly became My Best Force Wipe.\n\nJoin the Blooprint x Ironside PC Giveaway! https://gleam.io/Cybl3/blooprint-x-ironside-3000-pc-giveaway\n----------------------------------------------------------------------------------------------------\nMy Channels:\nBlooprint's Bunker - https://www.youtube.com/@BlooprintsBunker\nBlooprint's Vault - https://www.youtube.com/channel/UClMuosUutVxH7hTGVyUzppA?sub_confirmation=1\nTwitch - https://www.twitch.tv/blooprint\nKick - https://kick.com/blooprint\nTikTok - https://www.tiktok.com/@blooprintgames\n\nMy Socials:\nTwitter - https://twitter.com/blooprintgames\nDiscord - https://discord.gg/blooprint\nMerch - https://www.blooprintgaming.com/\n----------------------------------------------------------------------------------------------------\nMy Rust servers:\nBloo Lagoon Discord - https://lagoonrust.com/discord\nBloo Lagoon Website - https://lagoonrust.com/\n----------------------------------------------------------------------------------------------------\nPC Specs:\nProcessor - Ryzen 9 7950x3D\nGraphics Card - ASUS TUF RTX 4080\nMemory - G.SKILL Trident Z5 64GB DDR5 6000\nMotherboard - ASUS TUF B650-PLUS WIFI\nCPU Cooler - Noctua NH-D15\nPower Supply - 1000 GT 80 Plus Gold 1000W Fully Modular\nSSD - 4TB Crucial P3 Plus M.2\nHard Drive - 4TB HDD\nCase - Lian Li Lancool 216RX Black Steel\nPCPartPicker - https://pcpartpicker.com/list/FHT7PJ\n----------------------------------------------------------------------------------------------------\nEquipment:\nHeadphones - SENNHEISER HD 660 S\nMouse - Custom Themed Lamzu Atlantis\nKeyboard - KBD75v3 Custom Keyboard w/ JWK Poseidon lubed switches, Brass Plate & Doubleshot Keycaps\nMic - Rode Procaster\nMonitor (main) - Samsung Odyssey G7 240Hz (2560x1440)\nMonitor (secondary) - Samsung Odyssey G5 144Hz (2560x1440) [x2]\nCapture Card - Elgato 4K60 Pro MK.2\nStream Deck - Elgato Mini\nSound Mixer - TC Helicon GoXLR \n----------------------------------------------------------------------------------------------------\nChannel Art/Design:\nEdited by - Iced (https://www.youtube.com/@Icedddddd)\nThumbnail - Veysel Kara (https://twitter.com/veys_el_kara) \nMascot Design and Twitch Graphics - Rotting Jackal (https://www.rottingjackal.com/)\nBanner & Illustrated Thumbnails - Veysel Kara (https://twitter.com/veys_el_kara)\nOG Logo Design - Curzurer (https://curzurer.carbonmade.com/)\nIntro, Outro & Motion Design - Bryan G. Motion (https://twitter.com/bryangmotion)\n----------------------------------------------------------------------------------------------------\nMost if not all background music is provided by Epidemic Sound: https://share.epidemicsound.com/o55ygf"
             },
             "defaultAudioLanguage": "en"
         },
         "contentDetails": {
-            "duration": "PT18M6S",
+            "duration": "PT2H14M18S",
             "dimension": "2d",
             "definition": "hd",
             "caption": "false",
@@ -1864,15 +1886,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "267422",
-            "likeCount": "3768",
+            "viewCount": "171455",
+            "likeCount": "12721",
             "favoriteCount": "0",
-            "commentCount": "437"
+            "commentCount": "1194"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "IoNSHIE_DUQWDO8KmyobrhFkxWc",
+        "etag": "W0UjUO8XkkBiSkXWU2wkMA5kNjE",
         "id": "j6OqLm0lQ68",
         "snippet": {
             "publishedAt": "2025-11-04T15:00:04Z",
@@ -1967,15 +1989,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "235080",
-            "likeCount": "26877",
+            "viewCount": "292393",
+            "likeCount": "28544",
             "favoriteCount": "0",
-            "commentCount": "2516"
+            "commentCount": "2616"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "7ZTRMN6WNG0G2cTkBT8AtOtF6os",
+        "etag": "4L89mr7UVYHk1fd918tAE2HnJj0",
         "id": "9I4FKW0tlFU",
         "snippet": {
             "publishedAt": "2025-11-04T09:01:11Z",
@@ -2057,93 +2079,71 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "975887",
-            "likeCount": "19042",
+            "viewCount": "989349",
+            "likeCount": "19452",
             "favoriteCount": "0",
-            "commentCount": "559"
+            "commentCount": "566"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "LceEQBuzMd0oZxkT0ENnAL8cdxk",
-        "id": "4FfXPMOtJrk",
+        "etag": "CRxWnI9SrSKEMzHF5LHQhsWHNjY",
+        "id": "9onAlHowdK4",
         "snippet": {
-            "publishedAt": "2025-11-04T20:01:39Z",
-            "channelId": "UCj-wTLj0p0YvTkS-9-ACm0A",
-            "title": "MY BEST FORCE WIPE - Rust",
-            "description": "Where do I even begin? The day was Oct. 2nd, the force wipe that would change Rust... forever. A new progression system was implemented into the game which presented new but exciting challenges. To make matters even more interesting, this was the wipe where I played with three of my own subscribers. GeekMartyr, Tairyr, and @LuTon1c . This story had such an interesting turn of events. From an unexpected rivalry with a familiar face, to the craziest online raids/raid defenses... this quickly became My Best Force Wipe.\n\nJoin the Blooprint x Ironside PC Giveaway! https://gleam.io/Cybl3/blooprint-x-ironside-3000-pc-giveaway\n----------------------------------------------------------------------------------------------------\nMy Channels:\nBlooprint's Bunker - https://www.youtube.com/@BlooprintsBunker\nBlooprint's Vault - https://www.youtube.com/channel/UClMuosUutVxH7hTGVyUzppA?sub_confirmation=1\nTwitch - https://www.twitch.tv/blooprint\nKick - https://kick.com/blooprint\nTikTok - https://www.tiktok.com/@blooprintgames\n\nMy Socials:\nTwitter - https://twitter.com/blooprintgames\nDiscord - https://discord.gg/blooprint\nMerch - https://www.blooprintgaming.com/\n----------------------------------------------------------------------------------------------------\nMy Rust servers:\nBloo Lagoon Discord - https://lagoonrust.com/discord\nBloo Lagoon Website - https://lagoonrust.com/\n----------------------------------------------------------------------------------------------------\nPC Specs:\nProcessor - Ryzen 9 7950x3D\nGraphics Card - ASUS TUF RTX 4080\nMemory - G.SKILL Trident Z5 64GB DDR5 6000\nMotherboard - ASUS TUF B650-PLUS WIFI\nCPU Cooler - Noctua NH-D15\nPower Supply - 1000 GT 80 Plus Gold 1000W Fully Modular\nSSD - 4TB Crucial P3 Plus M.2\nHard Drive - 4TB HDD\nCase - Lian Li Lancool 216RX Black Steel\nPCPartPicker - https://pcpartpicker.com/list/FHT7PJ\n----------------------------------------------------------------------------------------------------\nEquipment:\nHeadphones - SENNHEISER HD 660 S\nMouse - Custom Themed Lamzu Atlantis\nKeyboard - KBD75v3 Custom Keyboard w/ JWK Poseidon lubed switches, Brass Plate & Doubleshot Keycaps\nMic - Rode Procaster\nMonitor (main) - Samsung Odyssey G7 240Hz (2560x1440)\nMonitor (secondary) - Samsung Odyssey G5 144Hz (2560x1440) [x2]\nCapture Card - Elgato 4K60 Pro MK.2\nStream Deck - Elgato Mini\nSound Mixer - TC Helicon GoXLR \n----------------------------------------------------------------------------------------------------\nChannel Art/Design:\nEdited by - Iced (https://www.youtube.com/@Icedddddd)\nThumbnail - Veysel Kara (https://twitter.com/veys_el_kara) \nMascot Design and Twitch Graphics - Rotting Jackal (https://www.rottingjackal.com/)\nBanner & Illustrated Thumbnails - Veysel Kara (https://twitter.com/veys_el_kara)\nOG Logo Design - Curzurer (https://curzurer.carbonmade.com/)\nIntro, Outro & Motion Design - Bryan G. Motion (https://twitter.com/bryangmotion)\n----------------------------------------------------------------------------------------------------\nMost if not all background music is provided by Epidemic Sound: https://share.epidemicsound.com/o55ygf",
+            "publishedAt": "2025-11-04T13:30:19Z",
+            "channelId": "UCOfyvsftRqM5yyqpT392b4A",
+            "title": "I Pretended to be a Homeless Baby Brainrot in Steal a Brainrot…",
+            "description": "I Pretended to be a Homeless Baby Brainrot in Steal a Brainrot… (Roblox)\n\nJoin Dash in Roblox! https://www.roblox.com/communities/34782900/Dash-and-FRIENDS\n\nThis video Dash pretends to be a HOMELESS BABY BRAINROT to troll Baby Dash and Anne... How will they react? Will they be nice to the brainrot? Watch the full video to find out!\n\n#Roblox #Dash",
             "thumbnails": {
                 "default": {
-                    "url": "https://i.ytimg.com/vi/4FfXPMOtJrk/default.jpg",
+                    "url": "https://i.ytimg.com/vi/9onAlHowdK4/default.jpg",
                     "width": 120,
                     "height": 90
                 },
                 "medium": {
-                    "url": "https://i.ytimg.com/vi/4FfXPMOtJrk/mqdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/9onAlHowdK4/mqdefault.jpg",
                     "width": 320,
                     "height": 180
                 },
                 "high": {
-                    "url": "https://i.ytimg.com/vi/4FfXPMOtJrk/hqdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/9onAlHowdK4/hqdefault.jpg",
                     "width": 480,
                     "height": 360
                 },
                 "standard": {
-                    "url": "https://i.ytimg.com/vi/4FfXPMOtJrk/sddefault.jpg",
+                    "url": "https://i.ytimg.com/vi/9onAlHowdK4/sddefault.jpg",
                     "width": 640,
                     "height": 480
                 },
                 "maxres": {
-                    "url": "https://i.ytimg.com/vi/4FfXPMOtJrk/maxresdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/9onAlHowdK4/maxresdefault.jpg",
                     "width": 1280,
                     "height": 720
                 }
             },
-            "channelTitle": "Blooprint",
+            "channelTitle": "Dash Roblox",
             "tags": [
-                "rust",
-                "blooprint rust",
-                "blooprint",
-                "rust pvp",
-                "rust base",
-                "rust survival",
-                "rust montage",
-                "rust raid",
-                "rust 2025",
-                "rust gameplay 2025",
-                "blooprint force wipe",
-                "rust force wipe",
-                "rust blueprint",
-                "rust blueprint fragments",
-                "rust blueprint update",
-                "blooprint group",
-                "rust best force wipe",
-                "rust best wipe",
-                "blooprint best video",
-                "blooprint movie",
-                "rust movie",
-                "blooprint ted",
-                "rust online raid",
-                "rust raid defense",
-                "rust story",
-                "rust revenge",
-                "movie",
-                "revenge",
-                "online raid",
-                "raid defense",
-                "force wipe"
+                "dash",
+                "roblox",
+                "dash roblox",
+                "dash minecraft",
+                "minecraft",
+                "minecraft challenge",
+                "minecraft mods",
+                "minecraft funny",
+                "I Pretended to be a Homeless Baby Brainrot in Steal a Brainrot…"
             ],
             "categoryId": "20",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-                "title": "MY BEST FORCE WIPE - Rust",
-                "description": "Where do I even begin? The day was Oct. 2nd, the force wipe that would change Rust... forever. A new progression system was implemented into the game which presented new but exciting challenges. To make matters even more interesting, this was the wipe where I played with three of my own subscribers. GeekMartyr, Tairyr, and @LuTon1c . This story had such an interesting turn of events. From an unexpected rivalry with a familiar face, to the craziest online raids/raid defenses... this quickly became My Best Force Wipe.\n\nJoin the Blooprint x Ironside PC Giveaway! https://gleam.io/Cybl3/blooprint-x-ironside-3000-pc-giveaway\n----------------------------------------------------------------------------------------------------\nMy Channels:\nBlooprint's Bunker - https://www.youtube.com/@BlooprintsBunker\nBlooprint's Vault - https://www.youtube.com/channel/UClMuosUutVxH7hTGVyUzppA?sub_confirmation=1\nTwitch - https://www.twitch.tv/blooprint\nKick - https://kick.com/blooprint\nTikTok - https://www.tiktok.com/@blooprintgames\n\nMy Socials:\nTwitter - https://twitter.com/blooprintgames\nDiscord - https://discord.gg/blooprint\nMerch - https://www.blooprintgaming.com/\n----------------------------------------------------------------------------------------------------\nMy Rust servers:\nBloo Lagoon Discord - https://lagoonrust.com/discord\nBloo Lagoon Website - https://lagoonrust.com/\n----------------------------------------------------------------------------------------------------\nPC Specs:\nProcessor - Ryzen 9 7950x3D\nGraphics Card - ASUS TUF RTX 4080\nMemory - G.SKILL Trident Z5 64GB DDR5 6000\nMotherboard - ASUS TUF B650-PLUS WIFI\nCPU Cooler - Noctua NH-D15\nPower Supply - 1000 GT 80 Plus Gold 1000W Fully Modular\nSSD - 4TB Crucial P3 Plus M.2\nHard Drive - 4TB HDD\nCase - Lian Li Lancool 216RX Black Steel\nPCPartPicker - https://pcpartpicker.com/list/FHT7PJ\n----------------------------------------------------------------------------------------------------\nEquipment:\nHeadphones - SENNHEISER HD 660 S\nMouse - Custom Themed Lamzu Atlantis\nKeyboard - KBD75v3 Custom Keyboard w/ JWK Poseidon lubed switches, Brass Plate & Doubleshot Keycaps\nMic - Rode Procaster\nMonitor (main) - Samsung Odyssey G7 240Hz (2560x1440)\nMonitor (secondary) - Samsung Odyssey G5 144Hz (2560x1440) [x2]\nCapture Card - Elgato 4K60 Pro MK.2\nStream Deck - Elgato Mini\nSound Mixer - TC Helicon GoXLR \n----------------------------------------------------------------------------------------------------\nChannel Art/Design:\nEdited by - Iced (https://www.youtube.com/@Icedddddd)\nThumbnail - Veysel Kara (https://twitter.com/veys_el_kara) \nMascot Design and Twitch Graphics - Rotting Jackal (https://www.rottingjackal.com/)\nBanner & Illustrated Thumbnails - Veysel Kara (https://twitter.com/veys_el_kara)\nOG Logo Design - Curzurer (https://curzurer.carbonmade.com/)\nIntro, Outro & Motion Design - Bryan G. Motion (https://twitter.com/bryangmotion)\n----------------------------------------------------------------------------------------------------\nMost if not all background music is provided by Epidemic Sound: https://share.epidemicsound.com/o55ygf"
+                "title": "I Pretended to be a Homeless Baby Brainrot in Steal a Brainrot…",
+                "description": "I Pretended to be a Homeless Baby Brainrot in Steal a Brainrot… (Roblox)\n\nJoin Dash in Roblox! https://www.roblox.com/communities/34782900/Dash-and-FRIENDS\n\nThis video Dash pretends to be a HOMELESS BABY BRAINROT to troll Baby Dash and Anne... How will they react? Will they be nice to the brainrot? Watch the full video to find out!\n\n#Roblox #Dash"
             },
             "defaultAudioLanguage": "en"
         },
         "contentDetails": {
-            "duration": "PT2H14M18S",
+            "duration": "PT18M6S",
             "dimension": "2d",
             "definition": "hd",
             "caption": "false",
@@ -2152,15 +2152,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "134871",
-            "likeCount": "11619",
+            "viewCount": "284483",
+            "likeCount": "3863",
             "favoriteCount": "0",
-            "commentCount": "1122"
+            "commentCount": "449"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "VAYVwRU8JKW3BrbN4FRsY3uuIkI",
+        "etag": "NHI5YSoxGAQWYL0_f1ihZknBhKw",
         "id": "ERVGH3NvhZU",
         "snippet": {
             "publishedAt": "2025-11-03T18:49:42Z",
@@ -2242,15 +2242,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "461316",
-            "likeCount": "768",
+            "viewCount": "476631",
+            "likeCount": "780",
             "favoriteCount": "0",
             "commentCount": "9"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "iXxUCzL1pr_urcvS-w6V7FODPkc",
+        "etag": "TuQYMgcs9CpfKh07mh9hJ4ucTCc",
         "id": "lU_nQwUcJdU",
         "snippet": {
             "publishedAt": "2025-11-04T18:14:49Z",
@@ -2312,15 +2312,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "84308",
-            "likeCount": "5108",
+            "viewCount": "94068",
+            "likeCount": "5305",
             "favoriteCount": "0",
-            "commentCount": "1146"
+            "commentCount": "1185"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "OXbMC9qkH2a1kghcFzwvRxfVTOM",
+        "etag": "wYmlTcwCS5eg0Bmi_m7fLVDnpoQ",
         "id": "7GO_i6j1vdc",
         "snippet": {
             "publishedAt": "2025-11-04T17:30:04Z",
@@ -2386,15 +2386,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "227906",
-            "likeCount": "11522",
+            "viewCount": "266670",
+            "likeCount": "12342",
             "favoriteCount": "0",
-            "commentCount": "682"
+            "commentCount": "741"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "fWN3P9AfbFY5OkVx0ugJj0BMelY",
+        "etag": "6xNhfEvEb_TNXATXlBnTyQYj4I4",
         "id": "jH_kcPbXtNs",
         "snippet": {
             "publishedAt": "2025-11-03T23:32:10Z",
@@ -2469,15 +2469,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "366344",
-            "likeCount": "618",
+            "viewCount": "385195",
+            "likeCount": "632",
             "favoriteCount": "0",
             "commentCount": "7"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "_pvw1y8UaMluaOdEv35EEz_GFds",
+        "etag": "AlV2-hjKm4Q1MeUl49JCXsEMRnw",
         "id": "ZhZXAOBJFxM",
         "snippet": {
             "publishedAt": "2025-11-03T21:00:41Z",
@@ -2552,7 +2552,7 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "14075",
+            "viewCount": "14231",
             "likeCount": "260",
             "favoriteCount": "0",
             "commentCount": "1"
@@ -2560,7 +2560,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "XokCKp7wvz3KD50Rpe5kv0VuAgM",
+        "etag": "jOuIOmqnHCeFKNoVosNWQNpbRp4",
         "id": "cjdr8gesoC0",
         "snippet": {
             "publishedAt": "2025-11-04T17:01:11Z",
@@ -2637,15 +2637,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "54871",
-            "likeCount": "1944",
+            "viewCount": "59669",
+            "likeCount": "1995",
             "favoriteCount": "0",
-            "commentCount": "74"
+            "commentCount": "75"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "uL9bzBuUjF3UTByYj-lluJMKy3U",
+        "etag": "c_SlKedPk7CntFAw9jUp7kM579k",
         "id": "RA48uky57Lg",
         "snippet": {
             "publishedAt": "2025-11-03T14:00:48Z",
@@ -2715,15 +2715,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "1000977",
-            "likeCount": "2174",
+            "viewCount": "1008459",
+            "likeCount": "2185",
             "favoriteCount": "0",
             "commentCount": "33"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "ngEo9CgneAzIw4FNsKJQNStP2-Q",
+        "etag": "zTSgBYbQtRBYDaunnob6lcIYLAQ",
         "id": "2VIwgfgFFJk",
         "snippet": {
             "publishedAt": "2025-11-03T15:30:02Z",
@@ -2797,71 +2797,60 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "82715",
-            "likeCount": "569",
+            "viewCount": "89995",
+            "likeCount": "597",
             "favoriteCount": "0",
-            "commentCount": "135"
+            "commentCount": "144"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "ShTZtrPvzBTew06VymweIQOuscM",
-        "id": "gc_uT2-55HI",
+        "etag": "LSARxLrzDojb_UVPY9PuFXNpfTo",
+        "id": "u8_gEdQMjYw",
         "snippet": {
-            "publishedAt": "2025-11-04T15:01:20Z",
-            "channelId": "UC0eLBYhxW9HC0P9PXQ73mpQ",
-            "title": "I Secretly Used GUNS in a Minecraft Speedrun…",
-            "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
+            "publishedAt": "2025-11-04T20:30:25Z",
+            "channelId": "UC8vXGfLggx4CAFsr2i0IoRA",
+            "title": "OMG I HIT THE JACKPOT WITH ANOTHER ICON IN FC!!! - FC 26 PACK OPENING",
+            "description": "👉 Smash that like button and sub if you enjoy FC 26 content\n\n►Merch: https://twosync-shop.fourthwall.com/\n\n►Subscribe today for FREE and hit the LIKE button if you enjoyed the video!\n\n#fc26 #packopening #ultimateteam",
             "thumbnails": {
                 "default": {
-                    "url": "https://i.ytimg.com/vi/gc_uT2-55HI/default.jpg",
+                    "url": "https://i.ytimg.com/vi/u8_gEdQMjYw/default.jpg",
                     "width": 120,
                     "height": 90
                 },
                 "medium": {
-                    "url": "https://i.ytimg.com/vi/gc_uT2-55HI/mqdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/u8_gEdQMjYw/mqdefault.jpg",
                     "width": 320,
                     "height": 180
                 },
                 "high": {
-                    "url": "https://i.ytimg.com/vi/gc_uT2-55HI/hqdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/u8_gEdQMjYw/hqdefault.jpg",
                     "width": 480,
                     "height": 360
                 },
                 "standard": {
-                    "url": "https://i.ytimg.com/vi/gc_uT2-55HI/sddefault.jpg",
+                    "url": "https://i.ytimg.com/vi/u8_gEdQMjYw/sddefault.jpg",
                     "width": 640,
                     "height": 480
                 },
                 "maxres": {
-                    "url": "https://i.ytimg.com/vi/gc_uT2-55HI/maxresdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/u8_gEdQMjYw/maxresdefault.jpg",
                     "width": 1280,
                     "height": 720
                 }
             },
-            "channelTitle": "Cash",
-            "tags": [
-                "Cash",
-                "Nico",
-                "Nico and Cash",
-                "Cash and Nico",
-                "Minecraft",
-                "Minecraft mod",
-                "family friendly",
-                "kid friendly",
-                "I Secretly Used GUNS in a Minecraft Speedrun…"
-            ],
-            "categoryId": "24",
+            "channelTitle": "TWOSYNC",
+            "categoryId": "20",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
+            "defaultLanguage": "en-GB",
             "localized": {
-                "title": "I Secretly Used GUNS in a Minecraft Speedrun…",
-                "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash"
+                "title": "OMG I HIT THE JACKPOT WITH ANOTHER ICON IN FC!!! - FC 26 PACK OPENING",
+                "description": "👉 Smash that like button and sub if you enjoy FC 26 content\n\n►Merch: https://twosync-shop.fourthwall.com/\n\n►Subscribe today for FREE and hit the LIKE button if you enjoyed the video!\n\n#fc26 #packopening #ultimateteam"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en-GB"
         },
         "contentDetails": {
-            "duration": "PT20M54S",
+            "duration": "PT21M3S",
             "dimension": "2d",
             "definition": "hd",
             "caption": "false",
@@ -2870,15 +2859,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "216050",
-            "likeCount": "3941",
+            "viewCount": "34207",
+            "likeCount": "1232",
             "favoriteCount": "0",
-            "commentCount": "584"
+            "commentCount": "99"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "ZNmBmNo_KeEI39e60EmI71btglQ",
+        "etag": "BFfP31ISDy9ThyP2fy0fmXElyKo",
         "id": "EIFJTvqOp8s",
         "snippet": {
             "publishedAt": "2025-11-03T17:07:25Z",
@@ -2945,15 +2934,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "876059",
-            "likeCount": "704",
+            "viewCount": "920036",
+            "likeCount": "731",
             "favoriteCount": "0",
             "commentCount": "11"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "2Hn-cIRYWMOT-v1GKeO7rxc4JQc",
+        "etag": "tAqD75tQtlMzg4VphJkydjqOcd0",
         "id": "iBhpNZZ-Wwo",
         "snippet": {
             "publishedAt": "2025-11-03T20:00:40Z",
@@ -3010,60 +2999,71 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "184636",
-            "likeCount": "4257",
+            "viewCount": "189188",
+            "likeCount": "4285",
             "favoriteCount": "0",
-            "commentCount": "515"
+            "commentCount": "519"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "zop9AXNQWhKedTok7G4JNRfWQSM",
-        "id": "u8_gEdQMjYw",
+        "etag": "EFFTs4vJ_Sn7t7L9Sth--StHw4I",
+        "id": "gc_uT2-55HI",
         "snippet": {
-            "publishedAt": "2025-11-04T20:30:25Z",
-            "channelId": "UC8vXGfLggx4CAFsr2i0IoRA",
-            "title": "OMG I HIT THE JACKPOT WITH ANOTHER ICON IN FC!!! - FC 26 PACK OPENING",
-            "description": "👉 Smash that like button and sub if you enjoy FC 26 content\n\n►Merch: https://twosync-shop.fourthwall.com/\n\n►Subscribe today for FREE and hit the LIKE button if you enjoyed the video!\n\n#fc26 #packopening #ultimateteam",
+            "publishedAt": "2025-11-04T15:01:20Z",
+            "channelId": "UC0eLBYhxW9HC0P9PXQ73mpQ",
+            "title": "I Secretly Used GUNS in a Minecraft Speedrun…",
+            "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash",
             "thumbnails": {
                 "default": {
-                    "url": "https://i.ytimg.com/vi/u8_gEdQMjYw/default.jpg",
+                    "url": "https://i.ytimg.com/vi/gc_uT2-55HI/default.jpg",
                     "width": 120,
                     "height": 90
                 },
                 "medium": {
-                    "url": "https://i.ytimg.com/vi/u8_gEdQMjYw/mqdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/gc_uT2-55HI/mqdefault.jpg",
                     "width": 320,
                     "height": 180
                 },
                 "high": {
-                    "url": "https://i.ytimg.com/vi/u8_gEdQMjYw/hqdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/gc_uT2-55HI/hqdefault.jpg",
                     "width": 480,
                     "height": 360
                 },
                 "standard": {
-                    "url": "https://i.ytimg.com/vi/u8_gEdQMjYw/sddefault.jpg",
+                    "url": "https://i.ytimg.com/vi/gc_uT2-55HI/sddefault.jpg",
                     "width": 640,
                     "height": 480
                 },
                 "maxres": {
-                    "url": "https://i.ytimg.com/vi/u8_gEdQMjYw/maxresdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/gc_uT2-55HI/maxresdefault.jpg",
                     "width": 1280,
                     "height": 720
                 }
             },
-            "channelTitle": "TWOSYNC",
-            "categoryId": "20",
+            "channelTitle": "Cash",
+            "tags": [
+                "Cash",
+                "Nico",
+                "Nico and Cash",
+                "Cash and Nico",
+                "Minecraft",
+                "Minecraft mod",
+                "family friendly",
+                "kid friendly",
+                "I Secretly Used GUNS in a Minecraft Speedrun…"
+            ],
+            "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en-GB",
+            "defaultLanguage": "en",
             "localized": {
-                "title": "OMG I HIT THE JACKPOT WITH ANOTHER ICON IN FC!!! - FC 26 PACK OPENING",
-                "description": "👉 Smash that like button and sub if you enjoy FC 26 content\n\n►Merch: https://twosync-shop.fourthwall.com/\n\n►Subscribe today for FREE and hit the LIKE button if you enjoyed the video!\n\n#fc26 #packopening #ultimateteam"
+                "title": "I Secretly Used GUNS in a Minecraft Speedrun…",
+                "description": "Instagram: https://www.instagram.com/cashmarcoyt/\nMerch: https://cashandnico.com\n\n#Minecraft #MinecraftMod #Cash #NicoAndCash"
             },
-            "defaultAudioLanguage": "en-GB"
+            "defaultAudioLanguage": "en-US"
         },
         "contentDetails": {
-            "duration": "PT21M3S",
+            "duration": "PT20M54S",
             "dimension": "2d",
             "definition": "hd",
             "caption": "false",
@@ -3072,15 +3072,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "29495",
-            "likeCount": "1195",
+            "viewCount": "237454",
+            "likeCount": "4096",
             "favoriteCount": "0",
-            "commentCount": "99"
+            "commentCount": "594"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "FGAbvJbuYT4Y5B1gGOih-3PwgVo",
+        "etag": "LELCRs78ckt_Bpy-QGRqdg2uFos",
         "id": "92ZzoVhq3n0",
         "snippet": {
             "publishedAt": "2025-11-03T15:30:08Z",
@@ -3162,15 +3162,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "1286067",
-            "likeCount": "3323",
+            "viewCount": "1294334",
+            "likeCount": "3334",
             "favoriteCount": "0",
             "commentCount": "24"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "DyY0Y7_Cuy9yy9bAg7usGeLE3k4",
+        "etag": "fPXigktgeuS1-E-Dyr1-KTQ_4ws",
         "id": "UyIriogk-oA",
         "snippet": {
             "publishedAt": "2025-11-04T20:00:37Z",
@@ -3235,15 +3235,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "14452",
-            "likeCount": "269",
+            "viewCount": "18114",
+            "likeCount": "286",
             "favoriteCount": "0",
-            "commentCount": "42"
+            "commentCount": "45"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "ut0cRq_vaWM35xc52Ju0UtRWUYI",
+        "etag": "yGkfFh3jlnPsc2HJX_ayiLOzr-I",
         "id": "c5jB9U-ej1E",
         "snippet": {
             "publishedAt": "2025-11-04T22:15:31Z",
@@ -3310,60 +3310,78 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "266897",
-            "likeCount": "4388",
+            "viewCount": "267064",
+            "likeCount": "4389",
             "favoriteCount": "0",
             "commentCount": "5"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "3Uav6dhWrSKCQxAxt60lgIqLxCg",
-        "id": "5wvnyUEE7Tc",
+        "etag": "5i9La3h5DwQOxfX6MPVo4lLwd1Y",
+        "id": "kpERC3U3yxw",
         "snippet": {
-            "publishedAt": "2025-11-04T12:30:36Z",
-            "channelId": "UCZRdNleCgW-BGUJf-bbjzQg",
-            "title": "Nanak Naam Rakhaya I Diljit Dosanjh I Harmanjeet Singh I Gurmoh",
-            "description": "Nanak Naam Rakhaya \nArtist :Diljit Dosanjh \nLyrics: Harmanjeet Singh \nComposition : Traditional \nMusic : Gurmoh \nArtwork : Jashandeep Kaur\nSubtitles : Amrit Kaur\nFlute : Flutepreet \nMix : Rikk Muzic\nMaster : Arron (La studio )\n\nAvailable on all streaming platforms \nApple Music: https://music.apple.com/in/album/namaskar-single/1850262683\nSpotify : https://open.spotify.com/album/5z25DVYjUQS2nqlFdLsCBC?si=QSjd2z2WSJ6REU1sMQ5iJQ&nd=1&dlsi=1e759096921c4ad5\nAmazon Music : https://music.amazon.in/albums/B0FYWYGBLZ?ref=dm_sh_KECTXa8ynEFZZzANygisytjNY\n\nSubscribe To Our Channel For Latest Updates; https://www.youtube.com/@UCZRdNleCgW-BGUJf-bbjzQg \n-----------------------------------------------------\n► Follow DILJIT DOSANJH online \n►INSTAGRAM: https://www.instagram.com/diljitdosanjh \n►TWITTER : https://twitter.com/diljitdosanjh \n►FACEBOOK: https://www.facebook.com/DiljitDosanjh \n►SNAPCHAT:https://www.snapchat.com/add/thisisdosanjh",
+            "publishedAt": "2025-11-04T14:01:30Z",
+            "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+            "title": "Jennifer Lopez - Let's Get Loud (Lyrics)",
+            "description": "🎵 Follow the official 7clouds playlist on Spotify : http://spoti.fi/2SJsUcZ\n​🎧 Jennifer Lopez - Let's Get Loud (Lyrics)\n⏬ Download / Stream: https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p\n🔔 Turn on notifications to stay updated with new uploads!\n\n❤️ Follow our Spotify playlists: http://bit.ly/7cloudsSpotify\n💪 Workout Music: http://workout.7clouds.link\n🎮 Gaming Music: http://gaming.7clouds.link\n🌍 Best Pop Music: http://pop.7clouds.link\n🤬 Hardstyle Music: http://hardstyle.7clouds.link\n🥁 Drum & Bass: http://dnb.7clouds.link\n🔊 Hypertechno: http://techno.7clouds.link\n😡 Phonk Music: http://phonk.7clouds.link\n☁️ 7clouds Releases: http://release.7clouds.link\n\n👉 Jennifer Lopez\nhttps://JenniferLopez.lnk.to/followFI\nhttps://JenniferLopez.lnk.to/followTI\nhttps://JenniferLopez.lnk.to/followII\nhttps://JenniferLopez.lnk.to/followWI\nhttps://JenniferLopez.lnk.to/subscribeYD\nhttps://JenniferLopez.lnk.to/followSI\n\n☁️ 7clouds:\nhttps://open.spotify.com/user/7cloudsmusic\nhttps://soundcloud.com/7cloudsmusic\nhttps://audiomack.com/7cloudsmusic\nhttps://facebook.com/7cloudsofficial\nhttps://discord.com/invite/d5Arh8Y\nhttps://twitter.com/7cloudsmusic\nhttps://instagram.com/7clouds\nhttps://tiktok.com/@7clouds\nhttps://7clouds.org\n\n.........\n🎤 Lyrics: \nJennifer Lopez - Let's Get Loud\n\n[Intro]\n(Hey, hey, hey, hey, hey, hey, hey, hey)\nYa Jeny llegó, presente! (Hey, hey, hey, hey)\n(Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey)\nHere we go!\n\n[Chorus]\nLet's get loud, let's get loud\nTurn the music up, let's do it\nCome on people, let's get loud\nLet's get loud, let's get loud\nTurn the music up to hear that sound\nLet's get loud, let's get loud\nAin't nobody gotta tell ya what you gotta do\n\n[Verse 1]\nIf you wanna live your life\nLive it all the way, and don't you waste it\nEvery feeling, every beat\nCan be so very sweet, you gotta taste it (Uh-huh)\n\n[Refrain]\nYou gotta do it (You gotta do it), you gotta do it your way\nYou gotta prove it (You gotta prove it), you gotta mean what you say (Come on, you know what we're here for)\nYou gotta do it (Do it), you gotta do it your way\nYou gotta prove it (Prove it), you gotta mean what you say\n\n[Verse 2]\nLife's a party, make it hot\nDance, don't ever stop, whatever rhythm\nEvery minute, every day\nTake them all the way, you gotta live them (Hey, hey, hey, hey, hey, hey, 'cause I'ma live my life)\n\n[Refrain]\nYou gotta do it (You gotta do it), you gotta do it your way\nYou gotta prove it (You gotta prove it), you gotta mean what you say\nYou gotta do it (Do it), you gotta do it your way\nYou gotta prove it (Prove it), you gotta mean what you say\n\n[Chorus]\nLet's get loud, let's get loud\nTurn the music up to hear that sound\nLet's get loud, let's get loud\nAin't nobody gotta tell ya what you gotta do, no, no\n\n[Interlude]\nYeah, I like this groove (Ah)\nMake it hot, ayy papi (Haha)\nLet's get down\nLet's get down\nLet's get down\nIt's just a party, baby, come on\nLet's get loud (Ooh!)\nLet's get loud\nLet's get loud\nPump it up! (Ah)\n(Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey)\nMake it boogie now\n(Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey)\n\n[Verse 3]\nLife is meant to be big fun\nYou're not hurtin' anyone, nobody loses\nLet the music make you free\nBe what you wanna be, make no excuses\n\n[Refrain]\nYou gotta do it (Do what you want), you gotta do it your way\nYou gotta prove it (Say what you want), you gotta mean what you say\nYou gotta do it (Steady go where you want), you gotta do it your way\nYou gotta prove it (Just do it, oh), you gotta mean what you say\n\n[Chorus]\nLet's get loud, let's get loud\nTurn the music up to hear that sound\nLet's get loud, let's get loud\nAin't nobody gotta tell ya what you gotta do\n\n[Interlude]\nEso! (Hey, hey)\nAsí, así es que me gusta, ya tú sabes (Hey, hey, hey, hey)\n¡Échale candela! (Hey, hey, hey, hey, hey, hey, haha)\nLet's get loud\nLet's get loud\nLet's get loud\nLet's get loud\n\n[Chorus]\nLet's get loud, let's get loud (Hey, hey, hey, hey, hey)\nTurn the music up to hear that sound\nLet's get loud, let's get loud (Hey, hey, hey, hey, hey)\nAin't nobody gotta tell ya what you gotta do (Ah)\n\n[Outro]\nYou didn't know I could do that, did you?\n\n.........\n📧 Contact / Demo Submissions: contact@7clouds.org\n.........\n💌 Demos / Music Submissions: https://7clouds.portal.district.biz\n.........\n\n#jeniferlopez #letsgetloud #lyrics #7clouds",
             "thumbnails": {
                 "default": {
-                    "url": "https://i.ytimg.com/vi/5wvnyUEE7Tc/default.jpg",
+                    "url": "https://i.ytimg.com/vi/kpERC3U3yxw/default.jpg",
                     "width": 120,
                     "height": 90
                 },
                 "medium": {
-                    "url": "https://i.ytimg.com/vi/5wvnyUEE7Tc/mqdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/kpERC3U3yxw/mqdefault.jpg",
                     "width": 320,
                     "height": 180
                 },
                 "high": {
-                    "url": "https://i.ytimg.com/vi/5wvnyUEE7Tc/hqdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/kpERC3U3yxw/hqdefault.jpg",
                     "width": 480,
                     "height": 360
                 },
                 "standard": {
-                    "url": "https://i.ytimg.com/vi/5wvnyUEE7Tc/sddefault.jpg",
+                    "url": "https://i.ytimg.com/vi/kpERC3U3yxw/sddefault.jpg",
                     "width": 640,
                     "height": 480
                 },
                 "maxres": {
-                    "url": "https://i.ytimg.com/vi/5wvnyUEE7Tc/maxresdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/kpERC3U3yxw/maxresdefault.jpg",
                     "width": 1280,
                     "height": 720
                 }
             },
-            "channelTitle": "Diljit Dosanjh",
+            "channelTitle": "7clouds",
+            "tags": [
+                "let's get loud",
+                "let's get loud lyrics",
+                "lyrics let's get loud",
+                "let's get loud letra",
+                "letra let's get loud",
+                "jenifer lopez",
+                "jenifer lopez let's get loud",
+                "let's get loud jenifer lopez",
+                "jenifer lopez let's get loud letra",
+                "let's get loud jenifer lopez letra",
+                "let's get loud jenifer lopez lyrics",
+                "jenifer lopez let's get loud lyrics",
+                "Let's get loud let's get loud",
+                "Turn the music up to hear that sound",
+                "Ain't nobody gotta tell ya what you gotta do",
+                "jennifer lopez let's get loud tiktok"
+            ],
             "categoryId": "10",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-                "title": "Nanak Naam Rakhaya I Diljit Dosanjh I Harmanjeet Singh I Gurmoh",
-                "description": "Nanak Naam Rakhaya \nArtist :Diljit Dosanjh \nLyrics: Harmanjeet Singh \nComposition : Traditional \nMusic : Gurmoh \nArtwork : Jashandeep Kaur\nSubtitles : Amrit Kaur\nFlute : Flutepreet \nMix : Rikk Muzic\nMaster : Arron (La studio )\n\nAvailable on all streaming platforms \nApple Music: https://music.apple.com/in/album/namaskar-single/1850262683\nSpotify : https://open.spotify.com/album/5z25DVYjUQS2nqlFdLsCBC?si=QSjd2z2WSJ6REU1sMQ5iJQ&nd=1&dlsi=1e759096921c4ad5\nAmazon Music : https://music.amazon.in/albums/B0FYWYGBLZ?ref=dm_sh_KECTXa8ynEFZZzANygisytjNY\n\nSubscribe To Our Channel For Latest Updates; https://www.youtube.com/@UCZRdNleCgW-BGUJf-bbjzQg \n-----------------------------------------------------\n► Follow DILJIT DOSANJH online \n►INSTAGRAM: https://www.instagram.com/diljitdosanjh \n►TWITTER : https://twitter.com/diljitdosanjh \n►FACEBOOK: https://www.facebook.com/DiljitDosanjh \n►SNAPCHAT:https://www.snapchat.com/add/thisisdosanjh"
+                "title": "Jennifer Lopez - Let's Get Loud (Lyrics)",
+                "description": "🎵 Follow the official 7clouds playlist on Spotify : http://spoti.fi/2SJsUcZ\n​🎧 Jennifer Lopez - Let's Get Loud (Lyrics)\n⏬ Download / Stream: https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p\n🔔 Turn on notifications to stay updated with new uploads!\n\n❤️ Follow our Spotify playlists: http://bit.ly/7cloudsSpotify\n💪 Workout Music: http://workout.7clouds.link\n🎮 Gaming Music: http://gaming.7clouds.link\n🌍 Best Pop Music: http://pop.7clouds.link\n🤬 Hardstyle Music: http://hardstyle.7clouds.link\n🥁 Drum & Bass: http://dnb.7clouds.link\n🔊 Hypertechno: http://techno.7clouds.link\n😡 Phonk Music: http://phonk.7clouds.link\n☁️ 7clouds Releases: http://release.7clouds.link\n\n👉 Jennifer Lopez\nhttps://JenniferLopez.lnk.to/followFI\nhttps://JenniferLopez.lnk.to/followTI\nhttps://JenniferLopez.lnk.to/followII\nhttps://JenniferLopez.lnk.to/followWI\nhttps://JenniferLopez.lnk.to/subscribeYD\nhttps://JenniferLopez.lnk.to/followSI\n\n☁️ 7clouds:\nhttps://open.spotify.com/user/7cloudsmusic\nhttps://soundcloud.com/7cloudsmusic\nhttps://audiomack.com/7cloudsmusic\nhttps://facebook.com/7cloudsofficial\nhttps://discord.com/invite/d5Arh8Y\nhttps://twitter.com/7cloudsmusic\nhttps://instagram.com/7clouds\nhttps://tiktok.com/@7clouds\nhttps://7clouds.org\n\n.........\n🎤 Lyrics: \nJennifer Lopez - Let's Get Loud\n\n[Intro]\n(Hey, hey, hey, hey, hey, hey, hey, hey)\nYa Jeny llegó, presente! (Hey, hey, hey, hey)\n(Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey)\nHere we go!\n\n[Chorus]\nLet's get loud, let's get loud\nTurn the music up, let's do it\nCome on people, let's get loud\nLet's get loud, let's get loud\nTurn the music up to hear that sound\nLet's get loud, let's get loud\nAin't nobody gotta tell ya what you gotta do\n\n[Verse 1]\nIf you wanna live your life\nLive it all the way, and don't you waste it\nEvery feeling, every beat\nCan be so very sweet, you gotta taste it (Uh-huh)\n\n[Refrain]\nYou gotta do it (You gotta do it), you gotta do it your way\nYou gotta prove it (You gotta prove it), you gotta mean what you say (Come on, you know what we're here for)\nYou gotta do it (Do it), you gotta do it your way\nYou gotta prove it (Prove it), you gotta mean what you say\n\n[Verse 2]\nLife's a party, make it hot\nDance, don't ever stop, whatever rhythm\nEvery minute, every day\nTake them all the way, you gotta live them (Hey, hey, hey, hey, hey, hey, 'cause I'ma live my life)\n\n[Refrain]\nYou gotta do it (You gotta do it), you gotta do it your way\nYou gotta prove it (You gotta prove it), you gotta mean what you say\nYou gotta do it (Do it), you gotta do it your way\nYou gotta prove it (Prove it), you gotta mean what you say\n\n[Chorus]\nLet's get loud, let's get loud\nTurn the music up to hear that sound\nLet's get loud, let's get loud\nAin't nobody gotta tell ya what you gotta do, no, no\n\n[Interlude]\nYeah, I like this groove (Ah)\nMake it hot, ayy papi (Haha)\nLet's get down\nLet's get down\nLet's get down\nIt's just a party, baby, come on\nLet's get loud (Ooh!)\nLet's get loud\nLet's get loud\nPump it up! (Ah)\n(Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey)\nMake it boogie now\n(Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey)\n\n[Verse 3]\nLife is meant to be big fun\nYou're not hurtin' anyone, nobody loses\nLet the music make you free\nBe what you wanna be, make no excuses\n\n[Refrain]\nYou gotta do it (Do what you want), you gotta do it your way\nYou gotta prove it (Say what you want), you gotta mean what you say\nYou gotta do it (Steady go where you want), you gotta do it your way\nYou gotta prove it (Just do it, oh), you gotta mean what you say\n\n[Chorus]\nLet's get loud, let's get loud\nTurn the music up to hear that sound\nLet's get loud, let's get loud\nAin't nobody gotta tell ya what you gotta do\n\n[Interlude]\nEso! (Hey, hey)\nAsí, así es que me gusta, ya tú sabes (Hey, hey, hey, hey)\n¡Échale candela! (Hey, hey, hey, hey, hey, hey, haha)\nLet's get loud\nLet's get loud\nLet's get loud\nLet's get loud\n\n[Chorus]\nLet's get loud, let's get loud (Hey, hey, hey, hey, hey)\nTurn the music up to hear that sound\nLet's get loud, let's get loud (Hey, hey, hey, hey, hey)\nAin't nobody gotta tell ya what you gotta do (Ah)\n\n[Outro]\nYou didn't know I could do that, did you?\n\n.........\n📧 Contact / Demo Submissions: contact@7clouds.org\n.........\n💌 Demos / Music Submissions: https://7clouds.portal.district.biz\n.........\n\n#jeniferlopez #letsgetloud #lyrics #7clouds"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
         },
         "contentDetails": {
-            "duration": "PT4M26S",
+            "duration": "PT4M",
             "dimension": "2d",
             "definition": "hd",
             "caption": "false",
@@ -3372,15 +3390,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "224649",
-            "likeCount": "27772",
+            "viewCount": "164917",
+            "likeCount": "1027",
             "favoriteCount": "0",
-            "commentCount": "1540"
+            "commentCount": "39"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "7VpJ2a6aS58DRd0v-_-5F0NYo2A",
+        "etag": "tGWjF-a1ACFTLOSTKxqv-YUymNg",
         "id": "E7kcUv_-n5c",
         "snippet": {
             "publishedAt": "2025-11-04T18:00:14Z",
@@ -3442,15 +3460,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "134893",
-            "likeCount": "12585",
+            "viewCount": "151265",
+            "likeCount": "13139",
             "favoriteCount": "0",
-            "commentCount": "703"
+            "commentCount": "735"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "85ZmXykx6j-D53hXza03ZEAvlFQ",
+        "etag": "5VGDS0CDBrDejnFvNa-CSqHnLvA",
         "id": "gDR6V5OdnYg",
         "snippet": {
             "publishedAt": "2025-11-04T18:15:47Z",
@@ -3520,114 +3538,77 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "401364",
-            "likeCount": "24342",
+            "viewCount": "444653",
+            "likeCount": "25520",
             "favoriteCount": "0",
-            "commentCount": "1642"
+            "commentCount": "1699"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "pCj2RV_bGaf6hpgejcn00l8weN4",
-        "id": "C73QvFGNg9Q",
+        "etag": "-ohK1Izp3l8tdN8On06PnGAg_z4",
+        "id": "5wvnyUEE7Tc",
         "snippet": {
-            "publishedAt": "2025-10-31T10:00:23Z",
-            "channelId": "UCCUppTBdYnq9hi3AfLJWB6w",
-            "title": "NOTION, Willow Kayne - WAITING",
-            "description": "Listen to 'WAITING' Here: https://NOTION.lnk.to/WAITINGID\n\nFOLLOW NOTION\nInstagram: https://www.instagram.com/notion_dj/\nTikTok: https://www.tiktok.com/@notiondj\nBandcamp: https://notiondj.bandcamp.com/\nSoundCloud: https://soundcloud.com/notiondj\nX: https://twitter.com/NotionDJ\nFacebook: https://www.facebook.com/notiondjoffi...\n\nFOLLOW WILLOW KAYNE:\nInstagram: https://www.instagram.com/willowkayne/ \nTikTok: https://www.tiktok.com/@willowkayne \nX: https://x.com/willowkayne \nFacebook: https://www.facebook.com/officialwillowkayne/ \n\nCredits:\n\nDirector - Jordan Martin \n@jordan_martin_film\nProducer - Daisy Dobson \n@dobsondaisy\nProd. company - Double Vision\n\nLabel - Polydor \n@polydorrecords\n\nCreative Commissioner - Reece Spooner\n@reecespooner @reecespooner.work\n\nDOP - Jack Lilly\n@jacklilley\nGaffer - Niah Davies\n@niahelexis\n\nSecond Unit / BTS - Kirsty Wells \n@kirst_wellies\n\nPhotography / BTS stills - Nic Kane\n@_nic_kane\n\nStills - Tia Payne\n@shotbytia\n\nGrip - Jack Lilly \n@jacklilley\n\nCasting - Carmen Young \n@carmeneyoung\n\nRunner - Summer Hyde \n\nRunner - Luke de la Croix-Vaubois\n@luke.delacroix\n\nHMU - Charlie Fitzjohn @charliefitzjohn\n\nEditor - Jordan Martin \nColourist - Vincent Selby \n\nCast \nWillow Kayne \n@willowkayne\n\nNotion\n@notion_dj\n\nArianna Nocelo\n@desertdagger\n@uglymodels \n\nSaule\n@itssaule\n\nHafsa Mohamed\n@hafsadgt\n\nOliver Hood\n\nLuke de la Croix-Vaubois\n@luke.delacroix\n\nSpecial Thanks to Leigh Dennis the team at \n@strange_brew_briz\n\nNOTION, Willow Kayne - 'WAITING' lyrics:\n\nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nyeah yeah you said you wanna rock tonight I’m wondering where you are\n \nputting all my trust in you to not play with my heart\n \nI’m so licked I can’t see straight\nAlways meeting when we’re on one\n \nYou might lose me to this party if you’re not gon show up\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\n \nThese walls\nThey’re caving in on us\nI don’t remember where we were before\nI don’t remember who I was before\nIt’s too much.\n \nYou might lose me to this party if you not gon show up!\n\nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nyeah yeah you said you wanna rock tonight I’m wondering where you are\n \nputting all my trust in you to not play with my heart\n \nI’m so licked I can’t see straight\nAlways meeting when we’re on one\n \nYou might lose me to this party if you’re not gon show up\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\n \nThese walls\nThey’re caving in on us\nI don’t remember where we were before\nI don’t remember who I was before\nIt’s too much.\n \nYou might lose me to this party if you not gon show up!\n\n#Notion #WillowKayne #WAITING",
+            "publishedAt": "2025-11-04T12:30:36Z",
+            "channelId": "UCZRdNleCgW-BGUJf-bbjzQg",
+            "title": "Nanak Naam Rakhaya I Diljit Dosanjh I Harmanjeet Singh I Gurmoh",
+            "description": "Nanak Naam Rakhaya \nArtist :Diljit Dosanjh \nLyrics: Harmanjeet Singh \nComposition : Traditional \nMusic : Gurmoh \nArtwork : Jashandeep Kaur\nSubtitles : Amrit Kaur\nFlute : Flutepreet \nMix : Rikk Muzic\nMaster : Arron (La studio )\n\nAvailable on all streaming platforms \nApple Music: https://music.apple.com/in/album/namaskar-single/1850262683\nSpotify : https://open.spotify.com/album/5z25DVYjUQS2nqlFdLsCBC?si=QSjd2z2WSJ6REU1sMQ5iJQ&nd=1&dlsi=1e759096921c4ad5\nAmazon Music : https://music.amazon.in/albums/B0FYWYGBLZ?ref=dm_sh_KECTXa8ynEFZZzANygisytjNY\n\nSubscribe To Our Channel For Latest Updates; https://www.youtube.com/@UCZRdNleCgW-BGUJf-bbjzQg \n-----------------------------------------------------\n► Follow DILJIT DOSANJH online \n►INSTAGRAM: https://www.instagram.com/diljitdosanjh \n►TWITTER : https://twitter.com/diljitdosanjh \n►FACEBOOK: https://www.facebook.com/DiljitDosanjh \n►SNAPCHAT:https://www.snapchat.com/add/thisisdosanjh",
             "thumbnails": {
                 "default": {
-                    "url": "https://i.ytimg.com/vi/C73QvFGNg9Q/default.jpg",
+                    "url": "https://i.ytimg.com/vi/5wvnyUEE7Tc/default.jpg",
                     "width": 120,
                     "height": 90
                 },
                 "medium": {
-                    "url": "https://i.ytimg.com/vi/C73QvFGNg9Q/mqdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/5wvnyUEE7Tc/mqdefault.jpg",
                     "width": 320,
                     "height": 180
                 },
                 "high": {
-                    "url": "https://i.ytimg.com/vi/C73QvFGNg9Q/hqdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/5wvnyUEE7Tc/hqdefault.jpg",
                     "width": 480,
                     "height": 360
                 },
                 "standard": {
-                    "url": "https://i.ytimg.com/vi/C73QvFGNg9Q/sddefault.jpg",
+                    "url": "https://i.ytimg.com/vi/5wvnyUEE7Tc/sddefault.jpg",
                     "width": 640,
                     "height": 480
                 },
                 "maxres": {
-                    "url": "https://i.ytimg.com/vi/C73QvFGNg9Q/maxresdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/5wvnyUEE7Tc/maxresdefault.jpg",
                     "width": 1280,
                     "height": 720
                 }
             },
-            "channelTitle": "NOTION",
-            "tags": [
-                "notion",
-                "notion tenten",
-                "Nate Sib",
-                "Notion Nate Sib",
-                "Notion Nate Sib Unconditional",
-                "Unconditional",
-                "Unconditional Notion",
-                "n0tion",
-                "nate sib notion",
-                "unconditional nate sib notion",
-                "unconditional nate sib notion video",
-                "dance music",
-                "house",
-                "Notion 2025",
-                "#Notion",
-                "Notion The Days Remix",
-                "Notion Hooked",
-                "Notion Temporary Friends",
-                "Notion Found Days",
-                "Notion Remix",
-                "Notion DJ",
-                "UNCONDITIONAL",
-                "Notion Dj Mix",
-                "Notion Live",
-                "Notion WAITING",
-                "WAITING",
-                "Willow Kayne",
-                "Notion willow kayne",
-                "willow kayne waiting"
-            ],
+            "channelTitle": "Diljit Dosanjh",
             "categoryId": "10",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-                "title": "NOTION, Willow Kayne - WAITING",
-                "description": "Listen to 'WAITING' Here: https://NOTION.lnk.to/WAITINGID\n\nFOLLOW NOTION\nInstagram: https://www.instagram.com/notion_dj/\nTikTok: https://www.tiktok.com/@notiondj\nBandcamp: https://notiondj.bandcamp.com/\nSoundCloud: https://soundcloud.com/notiondj\nX: https://twitter.com/NotionDJ\nFacebook: https://www.facebook.com/notiondjoffi...\n\nFOLLOW WILLOW KAYNE:\nInstagram: https://www.instagram.com/willowkayne/ \nTikTok: https://www.tiktok.com/@willowkayne \nX: https://x.com/willowkayne \nFacebook: https://www.facebook.com/officialwillowkayne/ \n\nCredits:\n\nDirector - Jordan Martin \n@jordan_martin_film\nProducer - Daisy Dobson \n@dobsondaisy\nProd. company - Double Vision\n\nLabel - Polydor \n@polydorrecords\n\nCreative Commissioner - Reece Spooner\n@reecespooner @reecespooner.work\n\nDOP - Jack Lilly\n@jacklilley\nGaffer - Niah Davies\n@niahelexis\n\nSecond Unit / BTS - Kirsty Wells \n@kirst_wellies\n\nPhotography / BTS stills - Nic Kane\n@_nic_kane\n\nStills - Tia Payne\n@shotbytia\n\nGrip - Jack Lilly \n@jacklilley\n\nCasting - Carmen Young \n@carmeneyoung\n\nRunner - Summer Hyde \n\nRunner - Luke de la Croix-Vaubois\n@luke.delacroix\n\nHMU - Charlie Fitzjohn @charliefitzjohn\n\nEditor - Jordan Martin \nColourist - Vincent Selby \n\nCast \nWillow Kayne \n@willowkayne\n\nNotion\n@notion_dj\n\nArianna Nocelo\n@desertdagger\n@uglymodels \n\nSaule\n@itssaule\n\nHafsa Mohamed\n@hafsadgt\n\nOliver Hood\n\nLuke de la Croix-Vaubois\n@luke.delacroix\n\nSpecial Thanks to Leigh Dennis the team at \n@strange_brew_briz\n\nNOTION, Willow Kayne - 'WAITING' lyrics:\n\nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nyeah yeah you said you wanna rock tonight I’m wondering where you are\n \nputting all my trust in you to not play with my heart\n \nI’m so licked I can’t see straight\nAlways meeting when we’re on one\n \nYou might lose me to this party if you’re not gon show up\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\n \nThese walls\nThey’re caving in on us\nI don’t remember where we were before\nI don’t remember who I was before\nIt’s too much.\n \nYou might lose me to this party if you not gon show up!\n\nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nyeah yeah you said you wanna rock tonight I’m wondering where you are\n \nputting all my trust in you to not play with my heart\n \nI’m so licked I can’t see straight\nAlways meeting when we’re on one\n \nYou might lose me to this party if you’re not gon show up\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\n \nThese walls\nThey’re caving in on us\nI don’t remember where we were before\nI don’t remember who I was before\nIt’s too much.\n \nYou might lose me to this party if you not gon show up!\n\n#Notion #WillowKayne #WAITING"
+                "title": "Nanak Naam Rakhaya I Diljit Dosanjh I Harmanjeet Singh I Gurmoh",
+                "description": "Nanak Naam Rakhaya \nArtist :Diljit Dosanjh \nLyrics: Harmanjeet Singh \nComposition : Traditional \nMusic : Gurmoh \nArtwork : Jashandeep Kaur\nSubtitles : Amrit Kaur\nFlute : Flutepreet \nMix : Rikk Muzic\nMaster : Arron (La studio )\n\nAvailable on all streaming platforms \nApple Music: https://music.apple.com/in/album/namaskar-single/1850262683\nSpotify : https://open.spotify.com/album/5z25DVYjUQS2nqlFdLsCBC?si=QSjd2z2WSJ6REU1sMQ5iJQ&nd=1&dlsi=1e759096921c4ad5\nAmazon Music : https://music.amazon.in/albums/B0FYWYGBLZ?ref=dm_sh_KECTXa8ynEFZZzANygisytjNY\n\nSubscribe To Our Channel For Latest Updates; https://www.youtube.com/@UCZRdNleCgW-BGUJf-bbjzQg \n-----------------------------------------------------\n► Follow DILJIT DOSANJH online \n►INSTAGRAM: https://www.instagram.com/diljitdosanjh \n►TWITTER : https://twitter.com/diljitdosanjh \n►FACEBOOK: https://www.facebook.com/DiljitDosanjh \n►SNAPCHAT:https://www.snapchat.com/add/thisisdosanjh"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
         },
         "contentDetails": {
-            "duration": "PT4M7S",
+            "duration": "PT4M26S",
             "dimension": "2d",
             "definition": "hd",
             "caption": "false",
-            "licensedContent": false,
-            "regionRestriction": {
-                "blocked": [
-                    "BY",
-                    "RU"
-                ]
-            },
+            "licensedContent": true,
             "contentRating": {},
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "131435",
-            "likeCount": "4241",
+            "viewCount": "253605",
+            "likeCount": "31083",
             "favoriteCount": "0",
-            "commentCount": "218"
+            "commentCount": "1648"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "8xGRbuXP8kv7P_2uQoylV4Pk6Dc",
+        "etag": "WufXGoYsV8CHu438suGCBTXf7vc",
         "id": "aEa1Dn_tOkA",
         "snippet": {
             "publishedAt": "2025-11-04T12:00:02Z",
@@ -3711,15 +3692,15 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "557004",
-            "likeCount": "19640",
+            "viewCount": "593422",
+            "likeCount": "21185",
             "favoriteCount": "0",
-            "commentCount": "893"
+            "commentCount": "930"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "3C-Cl3dDG5tD78SXDpufrBxC-Ck",
+        "etag": "oczZ58SgMPnXl3tHmXKNWgfPvmg",
         "id": "WeApNhKS2a0",
         "snippet": {
             "publishedAt": "2025-11-04T20:00:29Z",
@@ -3814,95 +3795,114 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "198470",
-            "likeCount": "24047",
+            "viewCount": "232506",
+            "likeCount": "25558",
             "favoriteCount": "0",
-            "commentCount": "1242"
+            "commentCount": "1307"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "PQXGU_t3PoJl1X-RpZTnxtCYWpE",
-        "id": "kpERC3U3yxw",
+        "etag": "ciIdXNr561eZPVq9XEkMTcwG1AU",
+        "id": "C73QvFGNg9Q",
         "snippet": {
-            "publishedAt": "2025-11-04T14:01:30Z",
-            "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
-            "title": "Jennifer Lopez - Let's Get Loud (Lyrics)",
-            "description": "🎵 Follow the official 7clouds playlist on Spotify : http://spoti.fi/2SJsUcZ\n​🎧 Jennifer Lopez - Let's Get Loud (Lyrics)\n⏬ Download / Stream: https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p\n🔔 Turn on notifications to stay updated with new uploads!\n\n❤️ Follow our Spotify playlists: http://bit.ly/7cloudsSpotify\n💪 Workout Music: http://workout.7clouds.link\n🎮 Gaming Music: http://gaming.7clouds.link\n🌍 Best Pop Music: http://pop.7clouds.link\n🤬 Hardstyle Music: http://hardstyle.7clouds.link\n🥁 Drum & Bass: http://dnb.7clouds.link\n🔊 Hypertechno: http://techno.7clouds.link\n😡 Phonk Music: http://phonk.7clouds.link\n☁️ 7clouds Releases: http://release.7clouds.link\n\n👉 Jennifer Lopez\nhttps://JenniferLopez.lnk.to/followFI\nhttps://JenniferLopez.lnk.to/followTI\nhttps://JenniferLopez.lnk.to/followII\nhttps://JenniferLopez.lnk.to/followWI\nhttps://JenniferLopez.lnk.to/subscribeYD\nhttps://JenniferLopez.lnk.to/followSI\n\n☁️ 7clouds:\nhttps://open.spotify.com/user/7cloudsmusic\nhttps://soundcloud.com/7cloudsmusic\nhttps://audiomack.com/7cloudsmusic\nhttps://facebook.com/7cloudsofficial\nhttps://discord.com/invite/d5Arh8Y\nhttps://twitter.com/7cloudsmusic\nhttps://instagram.com/7clouds\nhttps://tiktok.com/@7clouds\nhttps://7clouds.org\n\n.........\n🎤 Lyrics: \nJennifer Lopez - Let's Get Loud\n\n[Intro]\n(Hey, hey, hey, hey, hey, hey, hey, hey)\nYa Jeny llegó, presente! (Hey, hey, hey, hey)\n(Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey)\nHere we go!\n\n[Chorus]\nLet's get loud, let's get loud\nTurn the music up, let's do it\nCome on people, let's get loud\nLet's get loud, let's get loud\nTurn the music up to hear that sound\nLet's get loud, let's get loud\nAin't nobody gotta tell ya what you gotta do\n\n[Verse 1]\nIf you wanna live your life\nLive it all the way, and don't you waste it\nEvery feeling, every beat\nCan be so very sweet, you gotta taste it (Uh-huh)\n\n[Refrain]\nYou gotta do it (You gotta do it), you gotta do it your way\nYou gotta prove it (You gotta prove it), you gotta mean what you say (Come on, you know what we're here for)\nYou gotta do it (Do it), you gotta do it your way\nYou gotta prove it (Prove it), you gotta mean what you say\n\n[Verse 2]\nLife's a party, make it hot\nDance, don't ever stop, whatever rhythm\nEvery minute, every day\nTake them all the way, you gotta live them (Hey, hey, hey, hey, hey, hey, 'cause I'ma live my life)\n\n[Refrain]\nYou gotta do it (You gotta do it), you gotta do it your way\nYou gotta prove it (You gotta prove it), you gotta mean what you say\nYou gotta do it (Do it), you gotta do it your way\nYou gotta prove it (Prove it), you gotta mean what you say\n\n[Chorus]\nLet's get loud, let's get loud\nTurn the music up to hear that sound\nLet's get loud, let's get loud\nAin't nobody gotta tell ya what you gotta do, no, no\n\n[Interlude]\nYeah, I like this groove (Ah)\nMake it hot, ayy papi (Haha)\nLet's get down\nLet's get down\nLet's get down\nIt's just a party, baby, come on\nLet's get loud (Ooh!)\nLet's get loud\nLet's get loud\nPump it up! (Ah)\n(Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey)\nMake it boogie now\n(Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey)\n\n[Verse 3]\nLife is meant to be big fun\nYou're not hurtin' anyone, nobody loses\nLet the music make you free\nBe what you wanna be, make no excuses\n\n[Refrain]\nYou gotta do it (Do what you want), you gotta do it your way\nYou gotta prove it (Say what you want), you gotta mean what you say\nYou gotta do it (Steady go where you want), you gotta do it your way\nYou gotta prove it (Just do it, oh), you gotta mean what you say\n\n[Chorus]\nLet's get loud, let's get loud\nTurn the music up to hear that sound\nLet's get loud, let's get loud\nAin't nobody gotta tell ya what you gotta do\n\n[Interlude]\nEso! (Hey, hey)\nAsí, así es que me gusta, ya tú sabes (Hey, hey, hey, hey)\n¡Échale candela! (Hey, hey, hey, hey, hey, hey, haha)\nLet's get loud\nLet's get loud\nLet's get loud\nLet's get loud\n\n[Chorus]\nLet's get loud, let's get loud (Hey, hey, hey, hey, hey)\nTurn the music up to hear that sound\nLet's get loud, let's get loud (Hey, hey, hey, hey, hey)\nAin't nobody gotta tell ya what you gotta do (Ah)\n\n[Outro]\nYou didn't know I could do that, did you?\n\n.........\n📧 Contact / Demo Submissions: contact@7clouds.org\n.........\n💌 Demos / Music Submissions: https://7clouds.portal.district.biz\n.........\n\n#jeniferlopez #letsgetloud #lyrics #7clouds",
+            "publishedAt": "2025-10-31T10:00:23Z",
+            "channelId": "UCCUppTBdYnq9hi3AfLJWB6w",
+            "title": "NOTION, Willow Kayne - WAITING",
+            "description": "Listen to 'WAITING' Here: https://NOTION.lnk.to/WAITINGID\n\nFOLLOW NOTION\nInstagram: https://www.instagram.com/notion_dj/\nTikTok: https://www.tiktok.com/@notiondj\nBandcamp: https://notiondj.bandcamp.com/\nSoundCloud: https://soundcloud.com/notiondj\nX: https://twitter.com/NotionDJ\nFacebook: https://www.facebook.com/notiondjoffi...\n\nFOLLOW WILLOW KAYNE:\nInstagram: https://www.instagram.com/willowkayne/ \nTikTok: https://www.tiktok.com/@willowkayne \nX: https://x.com/willowkayne \nFacebook: https://www.facebook.com/officialwillowkayne/ \n\nCredits:\n\nDirector - Jordan Martin \n@jordan_martin_film\nProducer - Daisy Dobson \n@dobsondaisy\nProd. company - Double Vision\n\nLabel - Polydor \n@polydorrecords\n\nCreative Commissioner - Reece Spooner\n@reecespooner @reecespooner.work\n\nDOP - Jack Lilly\n@jacklilley\nGaffer - Niah Davies\n@niahelexis\n\nSecond Unit / BTS - Kirsty Wells \n@kirst_wellies\n\nPhotography / BTS stills - Nic Kane\n@_nic_kane\n\nStills - Tia Payne\n@shotbytia\n\nGrip - Jack Lilly \n@jacklilley\n\nCasting - Carmen Young \n@carmeneyoung\n\nRunner - Summer Hyde \n\nRunner - Luke de la Croix-Vaubois\n@luke.delacroix\n\nHMU - Charlie Fitzjohn @charliefitzjohn\n\nEditor - Jordan Martin \nColourist - Vincent Selby \n\nCast \nWillow Kayne \n@willowkayne\n\nNotion\n@notion_dj\n\nArianna Nocelo\n@desertdagger\n@uglymodels \n\nSaule\n@itssaule\n\nHafsa Mohamed\n@hafsadgt\n\nOliver Hood\n\nLuke de la Croix-Vaubois\n@luke.delacroix\n\nSpecial Thanks to Leigh Dennis the team at \n@strange_brew_briz\n\nNOTION, Willow Kayne - 'WAITING' lyrics:\n\nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nyeah yeah you said you wanna rock tonight I’m wondering where you are\n \nputting all my trust in you to not play with my heart\n \nI’m so licked I can’t see straight\nAlways meeting when we’re on one\n \nYou might lose me to this party if you’re not gon show up\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\n \nThese walls\nThey’re caving in on us\nI don’t remember where we were before\nI don’t remember who I was before\nIt’s too much.\n \nYou might lose me to this party if you not gon show up!\n\nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nyeah yeah you said you wanna rock tonight I’m wondering where you are\n \nputting all my trust in you to not play with my heart\n \nI’m so licked I can’t see straight\nAlways meeting when we’re on one\n \nYou might lose me to this party if you’re not gon show up\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\n \nThese walls\nThey’re caving in on us\nI don’t remember where we were before\nI don’t remember who I was before\nIt’s too much.\n \nYou might lose me to this party if you not gon show up!\n\n#Notion #WillowKayne #WAITING",
             "thumbnails": {
                 "default": {
-                    "url": "https://i.ytimg.com/vi/kpERC3U3yxw/default.jpg",
+                    "url": "https://i.ytimg.com/vi/C73QvFGNg9Q/default.jpg",
                     "width": 120,
                     "height": 90
                 },
                 "medium": {
-                    "url": "https://i.ytimg.com/vi/kpERC3U3yxw/mqdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/C73QvFGNg9Q/mqdefault.jpg",
                     "width": 320,
                     "height": 180
                 },
                 "high": {
-                    "url": "https://i.ytimg.com/vi/kpERC3U3yxw/hqdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/C73QvFGNg9Q/hqdefault.jpg",
                     "width": 480,
                     "height": 360
                 },
                 "standard": {
-                    "url": "https://i.ytimg.com/vi/kpERC3U3yxw/sddefault.jpg",
+                    "url": "https://i.ytimg.com/vi/C73QvFGNg9Q/sddefault.jpg",
                     "width": 640,
                     "height": 480
                 },
                 "maxres": {
-                    "url": "https://i.ytimg.com/vi/kpERC3U3yxw/maxresdefault.jpg",
+                    "url": "https://i.ytimg.com/vi/C73QvFGNg9Q/maxresdefault.jpg",
                     "width": 1280,
                     "height": 720
                 }
             },
-            "channelTitle": "7clouds",
+            "channelTitle": "NOTION",
             "tags": [
-                "let's get loud",
-                "let's get loud lyrics",
-                "lyrics let's get loud",
-                "let's get loud letra",
-                "letra let's get loud",
-                "jenifer lopez",
-                "jenifer lopez let's get loud",
-                "let's get loud jenifer lopez",
-                "jenifer lopez let's get loud letra",
-                "let's get loud jenifer lopez letra",
-                "let's get loud jenifer lopez lyrics",
-                "jenifer lopez let's get loud lyrics",
-                "Let's get loud let's get loud",
-                "Turn the music up to hear that sound",
-                "Ain't nobody gotta tell ya what you gotta do",
-                "jennifer lopez let's get loud tiktok"
+                "notion",
+                "notion tenten",
+                "Nate Sib",
+                "Notion Nate Sib",
+                "Notion Nate Sib Unconditional",
+                "Unconditional",
+                "Unconditional Notion",
+                "n0tion",
+                "nate sib notion",
+                "unconditional nate sib notion",
+                "unconditional nate sib notion video",
+                "dance music",
+                "house",
+                "Notion 2025",
+                "#Notion",
+                "Notion The Days Remix",
+                "Notion Hooked",
+                "Notion Temporary Friends",
+                "Notion Found Days",
+                "Notion Remix",
+                "Notion DJ",
+                "UNCONDITIONAL",
+                "Notion Dj Mix",
+                "Notion Live",
+                "Notion WAITING",
+                "WAITING",
+                "Willow Kayne",
+                "Notion willow kayne",
+                "willow kayne waiting"
             ],
             "categoryId": "10",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-                "title": "Jennifer Lopez - Let's Get Loud (Lyrics)",
-                "description": "🎵 Follow the official 7clouds playlist on Spotify : http://spoti.fi/2SJsUcZ\n​🎧 Jennifer Lopez - Let's Get Loud (Lyrics)\n⏬ Download / Stream: https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p\n🔔 Turn on notifications to stay updated with new uploads!\n\n❤️ Follow our Spotify playlists: http://bit.ly/7cloudsSpotify\n💪 Workout Music: http://workout.7clouds.link\n🎮 Gaming Music: http://gaming.7clouds.link\n🌍 Best Pop Music: http://pop.7clouds.link\n🤬 Hardstyle Music: http://hardstyle.7clouds.link\n🥁 Drum & Bass: http://dnb.7clouds.link\n🔊 Hypertechno: http://techno.7clouds.link\n😡 Phonk Music: http://phonk.7clouds.link\n☁️ 7clouds Releases: http://release.7clouds.link\n\n👉 Jennifer Lopez\nhttps://JenniferLopez.lnk.to/followFI\nhttps://JenniferLopez.lnk.to/followTI\nhttps://JenniferLopez.lnk.to/followII\nhttps://JenniferLopez.lnk.to/followWI\nhttps://JenniferLopez.lnk.to/subscribeYD\nhttps://JenniferLopez.lnk.to/followSI\n\n☁️ 7clouds:\nhttps://open.spotify.com/user/7cloudsmusic\nhttps://soundcloud.com/7cloudsmusic\nhttps://audiomack.com/7cloudsmusic\nhttps://facebook.com/7cloudsofficial\nhttps://discord.com/invite/d5Arh8Y\nhttps://twitter.com/7cloudsmusic\nhttps://instagram.com/7clouds\nhttps://tiktok.com/@7clouds\nhttps://7clouds.org\n\n.........\n🎤 Lyrics: \nJennifer Lopez - Let's Get Loud\n\n[Intro]\n(Hey, hey, hey, hey, hey, hey, hey, hey)\nYa Jeny llegó, presente! (Hey, hey, hey, hey)\n(Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey)\nHere we go!\n\n[Chorus]\nLet's get loud, let's get loud\nTurn the music up, let's do it\nCome on people, let's get loud\nLet's get loud, let's get loud\nTurn the music up to hear that sound\nLet's get loud, let's get loud\nAin't nobody gotta tell ya what you gotta do\n\n[Verse 1]\nIf you wanna live your life\nLive it all the way, and don't you waste it\nEvery feeling, every beat\nCan be so very sweet, you gotta taste it (Uh-huh)\n\n[Refrain]\nYou gotta do it (You gotta do it), you gotta do it your way\nYou gotta prove it (You gotta prove it), you gotta mean what you say (Come on, you know what we're here for)\nYou gotta do it (Do it), you gotta do it your way\nYou gotta prove it (Prove it), you gotta mean what you say\n\n[Verse 2]\nLife's a party, make it hot\nDance, don't ever stop, whatever rhythm\nEvery minute, every day\nTake them all the way, you gotta live them (Hey, hey, hey, hey, hey, hey, 'cause I'ma live my life)\n\n[Refrain]\nYou gotta do it (You gotta do it), you gotta do it your way\nYou gotta prove it (You gotta prove it), you gotta mean what you say\nYou gotta do it (Do it), you gotta do it your way\nYou gotta prove it (Prove it), you gotta mean what you say\n\n[Chorus]\nLet's get loud, let's get loud\nTurn the music up to hear that sound\nLet's get loud, let's get loud\nAin't nobody gotta tell ya what you gotta do, no, no\n\n[Interlude]\nYeah, I like this groove (Ah)\nMake it hot, ayy papi (Haha)\nLet's get down\nLet's get down\nLet's get down\nIt's just a party, baby, come on\nLet's get loud (Ooh!)\nLet's get loud\nLet's get loud\nPump it up! (Ah)\n(Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey)\nMake it boogie now\n(Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey)\n\n[Verse 3]\nLife is meant to be big fun\nYou're not hurtin' anyone, nobody loses\nLet the music make you free\nBe what you wanna be, make no excuses\n\n[Refrain]\nYou gotta do it (Do what you want), you gotta do it your way\nYou gotta prove it (Say what you want), you gotta mean what you say\nYou gotta do it (Steady go where you want), you gotta do it your way\nYou gotta prove it (Just do it, oh), you gotta mean what you say\n\n[Chorus]\nLet's get loud, let's get loud\nTurn the music up to hear that sound\nLet's get loud, let's get loud\nAin't nobody gotta tell ya what you gotta do\n\n[Interlude]\nEso! (Hey, hey)\nAsí, así es que me gusta, ya tú sabes (Hey, hey, hey, hey)\n¡Échale candela! (Hey, hey, hey, hey, hey, hey, haha)\nLet's get loud\nLet's get loud\nLet's get loud\nLet's get loud\n\n[Chorus]\nLet's get loud, let's get loud (Hey, hey, hey, hey, hey)\nTurn the music up to hear that sound\nLet's get loud, let's get loud (Hey, hey, hey, hey, hey)\nAin't nobody gotta tell ya what you gotta do (Ah)\n\n[Outro]\nYou didn't know I could do that, did you?\n\n.........\n📧 Contact / Demo Submissions: contact@7clouds.org\n.........\n💌 Demos / Music Submissions: https://7clouds.portal.district.biz\n.........\n\n#jeniferlopez #letsgetloud #lyrics #7clouds"
+                "title": "NOTION, Willow Kayne - WAITING",
+                "description": "Listen to 'WAITING' Here: https://NOTION.lnk.to/WAITINGID\n\nFOLLOW NOTION\nInstagram: https://www.instagram.com/notion_dj/\nTikTok: https://www.tiktok.com/@notiondj\nBandcamp: https://notiondj.bandcamp.com/\nSoundCloud: https://soundcloud.com/notiondj\nX: https://twitter.com/NotionDJ\nFacebook: https://www.facebook.com/notiondjoffi...\n\nFOLLOW WILLOW KAYNE:\nInstagram: https://www.instagram.com/willowkayne/ \nTikTok: https://www.tiktok.com/@willowkayne \nX: https://x.com/willowkayne \nFacebook: https://www.facebook.com/officialwillowkayne/ \n\nCredits:\n\nDirector - Jordan Martin \n@jordan_martin_film\nProducer - Daisy Dobson \n@dobsondaisy\nProd. company - Double Vision\n\nLabel - Polydor \n@polydorrecords\n\nCreative Commissioner - Reece Spooner\n@reecespooner @reecespooner.work\n\nDOP - Jack Lilly\n@jacklilley\nGaffer - Niah Davies\n@niahelexis\n\nSecond Unit / BTS - Kirsty Wells \n@kirst_wellies\n\nPhotography / BTS stills - Nic Kane\n@_nic_kane\n\nStills - Tia Payne\n@shotbytia\n\nGrip - Jack Lilly \n@jacklilley\n\nCasting - Carmen Young \n@carmeneyoung\n\nRunner - Summer Hyde \n\nRunner - Luke de la Croix-Vaubois\n@luke.delacroix\n\nHMU - Charlie Fitzjohn @charliefitzjohn\n\nEditor - Jordan Martin \nColourist - Vincent Selby \n\nCast \nWillow Kayne \n@willowkayne\n\nNotion\n@notion_dj\n\nArianna Nocelo\n@desertdagger\n@uglymodels \n\nSaule\n@itssaule\n\nHafsa Mohamed\n@hafsadgt\n\nOliver Hood\n\nLuke de la Croix-Vaubois\n@luke.delacroix\n\nSpecial Thanks to Leigh Dennis the team at \n@strange_brew_briz\n\nNOTION, Willow Kayne - 'WAITING' lyrics:\n\nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nyeah yeah you said you wanna rock tonight I’m wondering where you are\n \nputting all my trust in you to not play with my heart\n \nI’m so licked I can’t see straight\nAlways meeting when we’re on one\n \nYou might lose me to this party if you’re not gon show up\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\n \nThese walls\nThey’re caving in on us\nI don’t remember where we were before\nI don’t remember who I was before\nIt’s too much.\n \nYou might lose me to this party if you not gon show up!\n\nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nyeah yeah you said you wanna rock tonight I’m wondering where you are\n \nputting all my trust in you to not play with my heart\n \nI’m so licked I can’t see straight\nAlways meeting when we’re on one\n \nYou might lose me to this party if you’re not gon show up\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\nBut I’ve been waiting\n \nAlright, i hope that we’re alright\nLet’s be friends in the morning\nLove after the sunrise\nLet’s make love on a weekday\nI think we’d be alright\nTrying to be patient\n \nThese walls\nThey’re caving in on us\nI don’t remember where we were before\nI don’t remember who I was before\nIt’s too much.\n \nYou might lose me to this party if you not gon show up!\n\n#Notion #WillowKayne #WAITING"
             },
             "defaultAudioLanguage": "en"
         },
         "contentDetails": {
-            "duration": "PT4M",
+            "duration": "PT4M7S",
             "dimension": "2d",
             "definition": "hd",
             "caption": "false",
-            "licensedContent": true,
+            "licensedContent": false,
+            "regionRestriction": {
+                "blocked": [
+                    "BY",
+                    "RU"
+                ]
+            },
             "contentRating": {},
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "109610",
-            "likeCount": "901",
+            "viewCount": "132989",
+            "likeCount": "4271",
             "favoriteCount": "0",
-            "commentCount": "37"
+            "commentCount": "219"
         }
     },
     {
         "kind": "youtube#video",
-        "etag": "4MoWuEBnbCnWh6xcjS1e7IcZM48",
+        "etag": "qIZOc2CHnnx_fS81LAXT9byzG3g",
         "id": "3hSKowI9pyw",
         "snippet": {
             "publishedAt": "2025-11-04T18:09:57Z",
@@ -3973,10 +3973,10 @@
             "projection": "rectangular"
         },
         "statistics": {
-            "viewCount": "36563",
-            "likeCount": "1291",
+            "viewCount": "40835",
+            "likeCount": "1340",
             "favoriteCount": "0",
-            "commentCount": "214"
+            "commentCount": "216"
         }
     }
 ]

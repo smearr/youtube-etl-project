@@ -21,7 +21,7 @@ def run_etl():
         df = transform_video_data(raw)
         
         # Load (saves to CSV locally)
-        load_to_snowflake(df)
+        load_to_snowflake(df, region)
     
     print(f"\n✅ ETL Complete!")
 
