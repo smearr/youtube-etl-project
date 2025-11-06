@@ -1,6 +1,7 @@
 import pandas as pd
 
-def transform_video_data(raw_items):
+
+def transform_video_data(raw_items, region):
     rows = []
     for item in raw_items:
         snippet = item["snippet"]
@@ -18,7 +19,7 @@ def transform_video_data(raw_items):
             "views": int(stats.get("viewCount", 0)),
             "likes": int(stats.get("likeCount", 0)),
             "comments": int(stats.get("commentCount", 0)),
-            "region": snippet.get("regionCode")
+            "region": region
         })
 
     df = pd.DataFrame(rows)
